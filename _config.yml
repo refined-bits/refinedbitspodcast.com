@@ -1,25 +1,7 @@
 # Site settings
 title: Refined Bits Podcast
-tagline: We need a tagline.
-email: refinedbits@gmail.com
 description: "A monthly podcast about becoming a better author of code."
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/refinedbits
-  - title: github
-    url: https://github.com/refined-bits
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Pullman, WA
+email: refinedbits@gmail.com
 
 # Build settings
 markdown: kramdown
