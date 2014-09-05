@@ -105,19 +105,19 @@ hr.star-primary:after {
   text-transform: uppercase;
 }
 
+.next-episode h2 {
+  font-size: 1.25em;
+  font-weight: 300;
+}
+
 .next-episode .next-label {
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
 }
 
 .next-episode small {
   color: #{{ site.data.color.primary-dark }};
-}
-
-.next-episode h2 {
-  font-size: 1.25em;
-  font-weight: 300;
 }
 
 @media(min-width:768px) {
@@ -132,6 +132,10 @@ hr.star-primary:after {
 
   .next-episode h2 {
       font-size: 1.75em;
+  }
+
+  .next-episode .next-label {
+    font-size: 2rem;
   }
 }
 
