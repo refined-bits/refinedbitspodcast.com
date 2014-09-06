@@ -1,0 +1,24 @@
+<section id="episodes">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+          <h2>Episodes</h2>
+          <hr class="star-primary">
+      </div>
+    </div>
+    <div class="row">
+      {% for post in site.posts %}
+        <article class="col-sm-4 episode-item">
+          <a href="#episodeModal-{{ post.modal-id }}" class="episode-link" data-toggle="modal">
+            <div class="caption">
+              <h1>{{post.title}}</h1>
+              <h2>{{post.subtitle}}</h2>
+              <time>{{post.date | date: '%-m/%-d/%Y'}}</time>
+            </div>
+            <img src="{{post.picture.src}}" class="img-responsive" alt="{{post.picture.alt}}" title="by {{post.picture.credit}}">
+          </a>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

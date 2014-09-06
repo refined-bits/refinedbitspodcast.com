@@ -2,9 +2,9 @@ title: new Podcast();
 subtitle: Facebook Messenger, Naked Celebrities, Oculus Medicine, Robots Taking Human Jobs
 description: Our first podcast! Add more description later.
 picture:
-  src: http://placekitten.com/300/300
-  alt: A kitten! This time.
-  credit: Placekitten
-date: 9/9/2014
+  src: http://lorempixel.com/300/300
+  alt: A random photo. I don't even know what it is.
+  credit: Lorem Pixel
+date: 2014-09-09
 
 # Smoke weed every day.
