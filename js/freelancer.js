@@ -35,3 +35,7 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$('.modal *[data-dismiss="modal"]').on('click', function () {
+  $(this).closest('.modal').find('audio')[0].pause();
+});
