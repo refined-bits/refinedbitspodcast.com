@@ -441,6 +441,10 @@ footer .footer-below {
   margin-bottom: 30px;
 }
 
+.portfolio-modal .modal-body audio {
+  width: 100%;
+}
+
 .portfolio-modal .modal-body .show-notes {
   text-align: left;
 }
