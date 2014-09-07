@@ -89,7 +89,8 @@ hr.star-primary:after {
   padding-bottom: 50px;
 }
 
-.next-episode img {
+.next-episode img,
+#about img {
   display: block;
   margin: 0 auto 20px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
@@ -192,7 +193,8 @@ body > section {
 
 }
 
-body > section:nth-child(even) {
+section.next-episode,
+#about {
   color: #FFF;
   background: #{{ site.data.color.primary }};
 }
@@ -284,6 +286,14 @@ body > section h1 {
   #episodes .episode-item {
       margin: 0 0 30px;
   }
+}
+
+#about .profiles {
+  text-align: center;
+}
+
+#about img {
+  max-width: 200px;
 }
 
 .btn-outline {
@@ -443,6 +453,10 @@ footer .footer-below {
 
 .portfolio-modal .modal-body audio {
   width: 100%;
+}
+
+.portfolio-modal .modal-body .get-audio {
+  text-align: right;
 }
 
 .portfolio-modal .modal-body .show-notes {

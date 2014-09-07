@@ -19,6 +19,9 @@
             <img src="{{post.picture.src}}" class="img-responsive img-centered" alt="{{post.picture.alt}}">
 
             <audio src="{{post.audio}}" preload="none" controls></audio>
+            <div class="get-audio">
+              <a href="{{post.audio}}">Download</a>
+            </div>
 
             <section class="show-notes">
               {{post.content | markdownify}}
