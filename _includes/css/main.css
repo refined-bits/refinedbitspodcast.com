@@ -90,9 +90,11 @@ hr.star-primary:after {
 }
 
 .next-episode img,
-#about img {
+#about .picture,
+#episodes .episode-item .episode-link {
   display: block;
   margin: 0 auto 20px;
+  border-radius: 5px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
@@ -224,8 +226,6 @@ body > section h1 {
   position: relative;
   margin: 0 auto;
   max-width: 300px;
-  border-radius: 5px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 #episodes .episode-item .episode-link .caption {
@@ -296,8 +296,11 @@ body > section h1 {
   margin-bottom: 5rem;
 }
 
-#about img {
-  max-width: 200px;
+#about .picture {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  overflow: hidden;
 }
 
 .btn-outline {

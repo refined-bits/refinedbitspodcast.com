@@ -9,7 +9,9 @@
     <div class="profiles row">
       {% for person in site.data.about %}
       <div class="col-lg-4">
-        <img src="{{person.picture.src}}" alt="{{person.picture.alt}}">
+        <div class="picture">
+          <img src="{{person.picture.src}}" alt="{{person.picture.alt}}">
+        </div>
         <h2>{{person.name}}</h2>
         <p>{{person.bio}}</p>
         {% if person.contact %}
