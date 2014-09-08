@@ -2,7 +2,7 @@
   picture:
     src: https://pbs.twimg.com/profile_images/508113992095518720/WxvrOOWc_200x200.jpeg
     alt: Andrew's face
-  bio: Biography goes here.
+  bio: Passionate about learning, teaching, & making a difference through the quality and performance of presentend challenges. Adventure. Wanderlust. Go. Enjoy. Do.
   contact:
     - title: home
       url: http://andrewbates09.com
@@ -12,9 +12,9 @@
       url: http://github.com/andrewbates09
 - name: Bryce
   picture:
-    src: https://avatars3.githubusercontent.com/u/2815531?v=2&s=200
+    src: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/10178059_10203705466903041_4831009270170032697_n.jpg?oh=55c791a8569e804ea827b2634bd76ed8&oe=5483170C&__gda__=1419557048_aa4b7ef221834b309bff03dfb72f7a14
     alt: Bryce's face
-  bio: Biography goes here.
+  bio: Farmer turned programmer.
   contact:
     - title: github
       url: http://github.com/bhanderson
