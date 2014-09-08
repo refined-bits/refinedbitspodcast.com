@@ -2,12 +2,8 @@
     <div class="footer-above">
         <div class="container">
             <div class="row">
-                <div class="footer-col col-md-4">
-                    <h3>Location</h3>
-                    <p>Pullman, WA</p>
-                </div>
-                <div class="footer-col col-md-4">
-                    <h3>Around the Web</h3>
+                <div class="social footer-col col-md-4 col-md-offset-2">
+                    <h3>In Other Places</h3>
                     <ul class="list-inline">
                         {% for network in site.data.social %}
                         <li>
@@ -16,9 +12,13 @@
                     {% endfor %}
                     </ul>
                 </div>
-                <div class="footer-col col-md-4">
-                    <h3>Credits</h3>
-                    <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                <div class="thanks footer-col col-md-4">
+                    <h3>Thanks</h3>
+                    <ul>
+                      <li><a href="http://startbootstrap.com">Start Bootstrap</a> for the <a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer theme</a>.</li>
+                      <li><a href="http://lug.wsu.edu">The WSU Linux Users' Group</a> for web hosting.</li>
+                      <li><a href="https://soundcloud.com/bryan-stansbury">Bryan Stansbury</a> for recording equipment.</li>
+                    </ul>
                 </div>
             </div>
         </div>

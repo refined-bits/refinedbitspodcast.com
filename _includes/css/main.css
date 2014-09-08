@@ -387,6 +387,22 @@ footer .footer-col {
   margin-bottom: 50px;
 }
 
+footer .thanks ul {
+  text-align: left;
+  list-style: none;
+  padding-left: 0;
+}
+
+footer .thanks li {
+  margin-bottom: 0.5em;
+}
+
+footer .thanks li::before {
+  content: "\f005";
+  font-family: FontAwesome;
+  padding: 0 1.5rem;
+}
+
 footer .footer-below {
   padding: 25px 0;
   background-color: #{{ site.data.color.secondary-dark }};
