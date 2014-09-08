@@ -292,6 +292,10 @@ body > section h1 {
   text-align: center;
 }
 
+#about .profiles > div {
+  margin-bottom: 5rem;
+}
+
 #about img {
   max-width: 200px;
 }
@@ -314,60 +318,14 @@ body > section h1 {
   background: #fff;
 }
 
-.floating-label-form-group {
-  position: relative;
-  margin-bottom: 0;
-  padding-bottom: .5em;
-  border-bottom: 1px solid #eee;
+#contact p {
+  font-size: 2.25rem;
 }
 
-.floating-label-form-group input,
-.floating-label-form-group textarea {
-  z-index: 1;
-  position: relative;
-  padding-right: 0;
-  padding-left: 0;
-  border: 0;
-  border-radius: 0;
-  font-size: 1.5em;
-  background: 0 0;
-  box-shadow: none!important;
-  resize: none;
-}
-
-.floating-label-form-group label {
-  display: block;
-  z-index: 0;
-  position: relative;
-  top: 2em;
-  margin: 0;
-  font-size: .85em;
-  line-height: 1.764705882em;
-  vertical-align: middle;
-  vertical-align: baseline;
-  opacity: 0;
-  -webkit-transition: top .3s ease,opacity .3s ease;
-  -moz-transition: top .3s ease,opacity .3s ease;
-  -ms-transition: top .3s ease,opacity .3s ease;
-  transition: top .3s ease,opacity .3s ease;
-}
-
-.floating-label-form-group::not(:first-child) {
-  padding-left: 14px;
-  border-left: 1px solid #eee;
-}
-
-.floating-label-form-group-with-value label {
-  top: 0;
-  opacity: 1;
-}
-
-.floating-label-form-group-with-focus label {
-  color: #{{ site.data.color.primary }};
-}
-
-form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #eee;
+@media (min-width: 768px) {
+  #contact p {
+    font-size: 3.5rem;
+  }
 }
 
 footer {
