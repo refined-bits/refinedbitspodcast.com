@@ -7,7 +7,6 @@
       </div>
     </div>
     <div class="row">
-      {% if site.posts.length %}
       {% for post in site.posts %}
         <article class="col-sm-4 episode-item">
           <a href="#episodeModal-{{ post.modal-id }}" class="episode-link" data-toggle="modal">
@@ -20,7 +19,7 @@
           </a>
         </article>
       {% endfor %}
-      {% else %}
+      {% if site.posts.size == 0 %}
         <p class="col-sm-12">There aren't any yet. Stay tuned!</p>
       {% endif %}
     </div>
