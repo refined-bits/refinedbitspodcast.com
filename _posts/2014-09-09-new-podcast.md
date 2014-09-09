@@ -11,7 +11,7 @@ picture:
     license:
       name: CC BY 2.0
       url: https://creativecommons.org/licenses/by/2.0/
-audio: http://upload.wikimedia.org/wikipedia/en/4/45/ACDC_-_Back_In_Black-sample.ogg
+audio: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.ogg
 
 layout: default
 modal-id: 1
