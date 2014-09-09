@@ -11,7 +11,12 @@ picture:
     license:
       name: CC BY 2.0
       url: https://creativecommons.org/licenses/by/2.0/
-audio: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.ogg
+audio:
+  sources:
+    - type: ogg
+      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.ogg
+    - type: mp3
+      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.mp3
 
 layout: default
 modal-id: 1
