@@ -91,7 +91,8 @@ hr.star-primary:after {
 
 .next-episode img,
 #about .picture,
-#episodes .episode-item .episode-link {
+#episodes .episode-item .episode-link,
+.modal-body .art img {
   display: block;
   margin: 0 auto 20px;
   border-radius: 5px;
@@ -267,6 +268,20 @@ body > section h1 {
   font-size: 2rem;
 }
 
+#episodes .episode-item .episode-link .caption .art-credit {
+  position: absolute;
+  font-size: 0.8em;
+  line-height: 1;
+  margin: 0;
+  padding: 0.5em;
+  bottom: 0;
+  left: 0;
+}
+
+#episodes .episode-item .episode-link .caption .art-credit::before {
+  content: 'photo: ';
+}
+
 #episodes .episode-item .episode-link .caption time {
   position: absolute;
   padding: 0.5rem;
@@ -359,7 +374,7 @@ footer .thanks li {
 }
 
 footer .thanks li::before {
-  content: "\f005";
+  content: '\f005';
   font-family: FontAwesome;
   padding: 0 1.5rem;
 }
@@ -424,15 +439,33 @@ footer .footer-below {
   font-size: 7rem;
 }
 
-.portfolio-modal .modal-body img {
+.portfolio-modal .modal-body section {
+  margin: 5em 0;
+}
+
+.portfolio-modal .modal-body .art {
   margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-body audio {
+.portfolio-modal .modal-body .art img {
+  margin-bottom: 10px;
+}
+
+.portfolio-modal .modal-body .art figcaption p {
+  max-width: 350px;
+  margin: 0 auto;
+  font-size: 1.25rem;
+}
+
+.portfolio-modal .modal-body .listen {
+  text-align: left;
+}
+
+.portfolio-modal .modal-body .listen audio {
   width: 100%;
 }
 
-.portfolio-modal .modal-body .get-audio {
+.portfolio-modal .modal-body .listen .get-audio {
   text-align: right;
 }
 

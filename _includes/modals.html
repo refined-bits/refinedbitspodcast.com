@@ -16,12 +16,23 @@
               <p class="subtitle">{{post.subtitle}}</p>
             </header>
             <hr class="star-primary">
-            <img src="{{post.picture.src}}" class="img-responsive img-centered" alt="{{post.picture.alt}}">
+            <figure class="art">
+              <img src="{{post.picture.src}}" class="img-responsive img-centered" alt="{{post.picture.alt}}">
+              <figcaption>
+                <p>{{post.picture.alt}}</p>
+                {% if post.picture.credit %}
+                  <p>photo: <a href="{{post.picture.credit.source}}">{{post.picture.credit.name}}</a> via <a href="{{post.picture.credit.license.url}}" rel="license">{{post.picture.credit.license.name}}</a></p>
+                {% endif %}
+              </figcaption>
+            </figure>
 
-            <audio src="{{post.audio}}" preload="none" controls></audio>
-            <div class="get-audio">
-              <a href="{{post.audio}}">Download</a>
-            </div>
+            <section class="listen">
+              <h1>Listen</h1>
+              <audio src="{{post.audio}}" preload="none" controls></audio>
+              <div class="get-audio">
+                <a href="{{post.audio}}">Download</a>
+              </div>
+            </section>
 
             <section class="show-notes">
               {{post.content | markdownify}}
