@@ -4,7 +4,10 @@
   <body id="page-top" class="index">
     {% include navigation.html %}
 
-    {% include next-episode.html %}
+    {% if site.data.next-episode %}
+      {% include next-episode.html %}
+    {% endif %}
+
     {% include episodes_grid.html %}
     {% include about.html %}
     {% include contact.html %}

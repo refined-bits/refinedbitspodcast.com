@@ -217,6 +217,10 @@ body > section h1 {
   }
 }
 
+.navbar + #episodes .container {
+  padding-top: 5rem;
+}
+
 #episodes .episode-item {
   right: 0;
   margin: 0 0 15px;
