@@ -311,6 +311,10 @@ body > section h1 {
   margin-bottom: 5rem;
 }
 
+#about .picture img {
+  max-width: 200px;
+}
+
 #about .picture {
   width: 200px;
   height: 200px;
