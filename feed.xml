@@ -29,6 +29,9 @@ layout: nil
         {% for cat in post.categories %}
           <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        {% for source in post.audio.sources %}
+          <enclosure url="{{source.src}}" length="{{source.size}}" type="audio/{{source.type}}" />
+        {% endfor %}
       </item>
     {% endfor %}
   </channel>

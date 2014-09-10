@@ -15,8 +15,10 @@ audio:
   sources:
     - type: ogg
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.ogg
+      size: 91516091
     - type: mp3
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.mp3
+      size: 103454044
 
 layout: default
 modal-id: 1
