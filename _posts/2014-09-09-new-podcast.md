@@ -24,13 +24,11 @@ modal-id: 1
 
 # Show Notes
 
-> TODO: Add times to headers when final edit is complete.
-
 We ended up recording a lot more than we thought we would, so you'll notice a few awkward cuts here and there as we tried to bring down the runtime to a reasonable length. Enjoy!
 
-## News
+## News (00:00:43)
 
-### Facebook Messenger (00:01:12)
+### Facebook Messenger (00:00:43)
 
 Now mandatory. FUD spreading about app permissions.
 
@@ -68,7 +66,7 @@ Persistent tracking mechanisms in the wild*](https://securehomes.esat.kuleuven.b
 
 http://en.wikipedia.org/wiki/August_2014_celebrity_photo_leaks
 
-## Gadgets and Technology
+## Gadgets and Technology (00:34:59)
 
 ### Oculus Rift in Medical Training (00:34:59)
 
@@ -84,11 +82,11 @@ http://en.wikipedia.org/wiki/Fizz_buzz
 
 http://news.sky.com/story/1329954/world-first-as-message-sent-from-brain-to-brain
 
-## This is Awesome!
+## This is Awesome! (00:46:04)
 
 **Note**: That was definitely not our first take on the harmonies.
 
-### DDoS Attack Map (00:46:11)
+### DDoS Attack Map (00:46:04)
 
 http://map.ipviking.com/
 
