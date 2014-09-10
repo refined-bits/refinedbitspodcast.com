@@ -1,9 +1,11 @@
 # Site settings
 title: Refined Bits Podcast
 description: "A monthly podcast about becoming a better author of code."
+logo: /img/logo.png
 email: refinedbits@gmail.com
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+url: 'http://refinedbitspodcast.com'
 baseurl: ''
