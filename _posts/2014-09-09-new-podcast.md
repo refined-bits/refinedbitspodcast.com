@@ -84,7 +84,10 @@ Persistent tracking mechanisms in the wild*](https://securehomes.esat.kuleuven.b
 
 ### Brain Messages (00:42:35)
 
-<http://news.sky.com/story/1329954/world-first-as-message-sent-from-brain-to-brain>
+Clarification from the podcast, the technology thusfar takes a signal from one person and sends 1s & 0s as flashes to write out a message in the recipient's mind. Sorry for any confustion we had here. If you want to be paranoid, you can still consider the possibilites of mind reading/control.
+
+ * <http://www.sciencealert.com.au/news/20140409-26123.html>
+ * <http://www.popsci.com.au/science/scientists-send-messages-directly-from-one-brain-to-another,391714>
 
 ## This is Awesome! (00:46:04)
 
