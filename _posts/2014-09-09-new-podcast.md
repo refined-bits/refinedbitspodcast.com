@@ -30,7 +30,7 @@ We ended up recording a lot more than we thought we would, so you'll notice a fe
 
 ## News
 
-### Facebook Messenger
+### Facebook Messenger (00:01:12)
 
 Now mandatory. FUD spreading about app permissions.
 
@@ -49,7 +49,7 @@ Android Developer Docs
 
 Android has to write the descriptions of what the permissions can do based on what's *possible*, so that users are fully informed in even the most extreme cases. It doesn't necessarily describe how the app actually uses those permissions. Facebook is just the latest target over fearmongering centered around this.
 
-### AdBlock Plus Disables Canvas Fingerprinting
+### AdBlock Plus Disables Canvas Fingerprinting (00:08:00)
 
 http://bgr.com/2014/07/23/how-to-disable-canvas-fingerprinting/
 
@@ -64,23 +64,23 @@ From [BrowserLeaks](https://www.browserleaks.com/canvas):
 This technique was first reported in a research paper by Gunes Acar et al.: [*The Web never forgets:
 Persistent tracking mechanisms in the wild*](https://securehomes.esat.kuleuven.be/~gacar/persistent/the_web_never_forgets.pdf)
 
-### iCloud Photo Leaks
+### iCloud Photo Leaks (00:11:26)
 
 http://en.wikipedia.org/wiki/August_2014_celebrity_photo_leaks
 
 ## Gadgets and Technology
 
-### Oculus Rift in Medical Training
+### Oculus Rift in Medical Training (00:34:59)
 
 https://medium.com/@Goetz/virtual-surgery-gets-real-221beeac65ea
 
 http://www.fondation-moveo.com/projects/virtual-reality
 
-### Fizz Buzz as an Interview Question
+### Fizz Buzz as an Interview Question (00:38:01)
 
 http://en.wikipedia.org/wiki/Fizz_buzz
 
-### Brain Messages
+### Brain Messages (00:42:35)
 
 http://news.sky.com/story/1329954/world-first-as-message-sent-from-brain-to-brain
 
@@ -88,19 +88,19 @@ http://news.sky.com/story/1329954/world-first-as-message-sent-from-brain-to-brai
 
 **Note**: That was definitely not our first take on the harmonies.
 
-### DDoS Attack Map
+### DDoS Attack Map (00:46:11)
 
 http://map.ipviking.com/
 
-### Polymer
+### Polymer (00:49:48)
 
 http://www.polymer-project.org/
 
-### The Dreadnoughtus!
+### The Dreadnoughtus! (00:53:31)
 
 http://www.popularmechanics.com/_mobile/science/environment/natural-disasters/dreadnoughtus-new-dino-may-be-largest-land-animal-ever-17170269
 
-## Q & A: Robots Taking Human Jobs
+## Q & A: Robots Taking Human Jobs (00:58:47)
 
 At this point, we obviously don't have any "listeners" yet, since this is our first episode, we've been asked this question before and thought it would be a great first topic for this segment.
 
