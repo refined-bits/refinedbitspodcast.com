@@ -32,6 +32,7 @@ layout: nil
         {% for source in post.audio.sources %}
           <enclosure url="{{source.src}}" length="{{source.size}}" type="audio/{{source.type}}" />
         {% endfor %}
+        <atom:content type="html">{{ post.content | xml_escape }}</atom:content>
       </item>
     {% endfor %}
   </channel>
