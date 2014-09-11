@@ -1,21 +1,14 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body id="page-top" class="index">
+  <body id="page-top" class="{% if page.bodyClass %}{{page.bodyClass}}{% endif %}">
     {% include navigation.html %}
 
-    {% if site.data.next-episode %}
-      {% include next-episode.html %}
-    {% endif %}
-
-    {% include episodes_grid.html %}
-    {% include about.html %}
-    {% include contact.html %}
+    {{content}}
 
     {% include footer.html %}
-    {% include modals.html %}
-    {% include scroll-to-top.html %}
     {% include google-analytics.html %}
+    {% include scroll-to-top.html %}
     {% include js.html %}
   </body>
 </html>

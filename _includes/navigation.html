@@ -18,13 +18,13 @@
                    <a href="#page-top"></a>
                </li>
                <li class="page-scroll">
-                   <a href="#episodes">Episodes</a>
+                   <a href="{% if page.url != '/' %}/{% endif %}#episodes">Episodes</a>
                </li>
                <li class="page-scroll">
-                   <a href="#about">About</a>
+                   <a href="{% if page.url != '/' %}/{% endif %}#about">About</a>
                </li>
                <li class="page-scroll">
-                   <a href="#contact">Contact</a>
+                   <a href="{% if page.url != '/' %}/{% endif %}#contact">Contact</a>
                </li>
                <li>
                    <a href="/feed.xml"><i class="fa fa-lg fa-rss-square"></i></a>

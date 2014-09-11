@@ -10,44 +10,9 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
 
-          <article class="modal-body">
-            <header>
-              <h1>{{post.title}}</h1>
-              <p class="subtitle">{{post.subtitle}}</p>
-            </header>
-            <hr class="star-primary">
-            <figure class="art">
-              <img src="{{post.picture.src}}" class="img-responsive img-centered" alt="{{post.picture.alt}}">
-              <figcaption>
-                <p>{{post.picture.alt}}</p>
-                {% if post.picture.credit %}
-                  <p>photo: <a href="{{post.picture.credit.source}}">{{post.picture.credit.name}}</a> via <a href="{{post.picture.credit.license.url}}" rel="license">{{post.picture.credit.license.name}}</a></p>
-                {% endif %}
-              </figcaption>
-            </figure>
-
-            <section class="listen">
-              <h1>Listen</h1>
-              <audio preload="none" controls>
-                {% for source in post.audio.sources %}
-                  <source src="{{source.src}}" type="audio/{{source.type}}">
-                {% endfor %}
-              </audio>
-              <div class="get-audio">
-                <ul class="list-inline">
-                  {% for source in post.audio.sources %}
-                    <li><a href="{{source.src}}">{{source.type}}</a></li>
-                  {% endfor %}
-                </ul>
-              </div>
-            </section>
-
-            <section class="show-notes">
-              {{post.content | markdownify}}
-            </section>
-
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-          </article>
+          <div class="modal-body">
+            {% include episode.html episode=post %}
+          </div>
 
         </div>
       </div>

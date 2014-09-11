@@ -11,7 +11,6 @@ $(function() {
     $('html, body').stop().animate({
       scrollTop: $($anchor.attr('href')).offset().top
     }, 1000, 'easeOutQuint');
-    event.preventDefault();
   });
 });
 
