@@ -21,7 +21,7 @@ audio:
       size: 103454044
 
 layout: single-episode
-modal-id: 1
+episode-id: 1
 ---
 
 # Show Notes
