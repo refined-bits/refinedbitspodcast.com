@@ -92,7 +92,7 @@ hr.star-primary:after {
 .next-episode img,
 #about .picture,
 #episodes .episode-item .episode-link,
-.modal-body .art img {
+article.episode .art img {
   display: block;
   margin: 0 auto 20px;
   border-radius: 5px;
@@ -217,7 +217,8 @@ body > section h1 {
   }
 }
 
-.navbar + #episodes .container {
+.navbar + #episodes .container,
+.single-episode section.episode .container {
   padding-top: 5rem;
 }
 
@@ -442,42 +443,46 @@ footer .footer-below {
   box-shadow: none;
 }
 
-.portfolio-modal .modal-body h1 {
+article.episode {
+  text-align: center;
+}
+
+article.episode h1 {
   margin: 0;
   font-size: 7rem;
 }
 
-.portfolio-modal .modal-body section {
+article.episode section {
   margin: 5em 0;
 }
 
-.portfolio-modal .modal-body .art {
+article.episode .art {
   margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-body .art img {
+article.episode .art img {
   margin-bottom: 10px;
 }
 
-.portfolio-modal .modal-body .art figcaption p {
+article.episode .art figcaption p {
   max-width: 350px;
   margin: 0 auto;
   font-size: 1.25rem;
 }
 
-.portfolio-modal .modal-body .listen {
+article.episode .listen {
   text-align: left;
 }
 
-.portfolio-modal .modal-body .listen audio {
+article.episode .listen audio {
   width: 100%;
 }
 
-.portfolio-modal .modal-body .listen .get-audio {
+article.episode .listen .get-audio {
   text-align: right;
 }
 
-.portfolio-modal .modal-body .show-notes {
+article.episode .show-notes {
   text-align: left;
 }
 

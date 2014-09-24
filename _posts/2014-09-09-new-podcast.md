@@ -1,6 +1,6 @@
 ---
 title: new Podcast();
-subtitle: Facebook Messenger, Naked Celebrities, Oculus Medicine, Robots Taking Human Jobs.
+description: Facebook Messenger, Naked Celebrities, Oculus Medicine, Robots Taking Human Jobs.
 date: 2014-09-09
 picture:
   src: /img/episodes/2014-09-09-new-podcast.jpg
@@ -20,7 +20,7 @@ audio:
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.mp3
       size: 103454044
 
-layout: default
+layout: single-episode
 modal-id: 1
 ---
 
