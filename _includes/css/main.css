@@ -144,6 +144,23 @@ article.episode .art img {
   }
 }
 
+.navbar-fixed-top .navbar-brand img {
+  max-width: 100%;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 10px;
+    width: 238px;
+    padding-top: 12px;
+}
+
+@media(min-width: 460px) {
+  .navbar-fixed-top .navbar-brand {
+      width: auto;
+      padding-top: 0;
+  }
+}
+
 @media(min-width:768px) {
   .navbar-fixed-top {
       padding: 25px 0;
