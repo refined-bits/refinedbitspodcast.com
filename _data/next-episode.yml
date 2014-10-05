@@ -1,6 +1,11 @@
 title: Kristin Valentine
-description: HTML5 games, Shellshock, Windows 10, Euclideon, The Physical Web
+description: HTML5 Games, Shellshock, Windows 10, Euclideon, The Physical Web
 picture:
-  src: http://placehold.it/300/300
-  alt: Just a placeholder.
+  src: /img/episodes/2014-10-14-kristin-valentine.jpg
+  alt: Kristin Valentine
+  credit:
+    name: Redstone Pictures
+    source: http://thedaylightstudio.com/blog/authors/10
+    license:
+      name: client permission
 date: 2014-10-14

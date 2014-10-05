@@ -9,7 +9,7 @@
     <figcaption>
       <p>{{include.episode.picture.alt}}</p>
       {% if include.episode.picture.credit %}
-        <p>photo: <a href="{{include.episode.picture.credit.source}}">{{include.episode.picture.credit.name}}</a> via <a href="{{include.episode.picture.credit.license.url}}" rel="license">{{include.episode.picture.credit.license.name}}</a></p>
+        <p>photo: <a href="{{include.episode.picture.credit.source}}">{{include.episode.picture.credit.name}}</a> via {% if include.episode.picture.credit.license.url %}<a href="{{include.episode.picture.credit.license.url}}" rel="license">{{include.episode.picture.credit.license.name}}</a>{% else %}{{include.episode.picture.credit.license.name}}{% endif %}</p>
       {% endif %}
     </figcaption>
   </figure>

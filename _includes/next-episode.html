@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-3 col-lg-offset-1">
         {% if site.data.next-episode.picture.credit %}
-          <a href="{{site.data.next-episode.picture.credit.source}}"><img class="img-responsive" src="{{site.data.next-episode.picture.src}}" alt="{{site.data.next-episode.picture.alt}}" title="photo: {{site.data.next-episode.picture.credit.name}} via {{site.data.next-episode.picture.credit.license.name}}"></a>
+          <a href="{{site.data.next-episode.picture.credit.source}}"><img class="img-responsive" src="{{site.data.next-episode.picture.src}}" alt="{{site.data.next-episode.picture.alt}}"{% if site.data.next-episode.picture.credit %} title="photo: {{site.data.next-episode.picture.credit.name}} via {{site.data.next-episode.picture.credit.license.name}}"{% endif %}></a>
         {% else %}
           <img class="img-responsive" src="{{site.data.next-episode.picture.src}}" alt="{{site.data.next-episode.picture.alt}}">
         {% endif %}
