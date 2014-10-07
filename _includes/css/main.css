@@ -156,7 +156,7 @@ article.episode .art img {
 
 @media(min-width: 460px) {
   .navbar-fixed-top .navbar-brand {
-      width: auto;
+      width: 380px;
       padding-top: 0;
   }
 }
