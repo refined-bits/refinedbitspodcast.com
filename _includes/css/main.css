@@ -31,7 +31,8 @@ h3,
 h4,
 h5,
 h6,
-.subtitle {
+.subtitle,
+.next-episode .next-label {
   text-transform: uppercase;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 700;
@@ -99,35 +100,63 @@ article.episode .art img {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
+@media (max-width: 768px) {
+  .next-episode img {
+    max-width: 300px;
+  }
+}
+
+.next-episode .next-label {
+  font-size: 1.25rem;
+  font-weight: normal;
+  line-height: 1;
+}
+
+.next-episode .next-label,
+.next-episode article time {
+  color: #{{ site.data.color.primary-dark }};
+}
+
 .next-episode article h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #FFF;
   font-weight: 700;
-  margin: 2rem 0 1rem 0;
+  margin: 0.25em 0 0.1em 0;
 }
 
 .next-episode article .subtitle,
 .next-episode article time {
   display: inline;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-.next-episode h1 {
-  font-size: 1.5rem;
-  font-weight: normal;
-}
-
-.next-episode h1,
-.next-episode article time {
-  color: #{{ site.data.color.primary-dark }};
-}
-
-@media(min-width:768px) {
+@media (min-width: 768px) {
   .next-episode .container {
     padding-top: 150px;
     padding-bottom: 100px;
+  }
+}
+
+@media (min-width: 992px) {
+  .next-episode .next-label {
+    font-size: 1.75rem;
+  }
+
+  .next-episode article h1 {
+    font-size: 5.5rem;
+  }
+
+  .next-episode article .subtitle,
+  .next-episode article time {
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .next-episode .next-label {
+    font-size: 2rem;
   }
 
   .next-episode article h1 {
@@ -137,10 +166,6 @@ article.episode .art img {
   .next-episode article .subtitle,
   .next-episode article time {
     font-size: 2.5rem;
-  }
-
-  .next-episode h1 {
-    font-size: 2rem;
   }
 }
 
@@ -154,14 +179,14 @@ article.episode .art img {
     padding-top: 12px;
 }
 
-@media(min-width: 460px) {
+@media (min-width: 460px) {
   .navbar-fixed-top .navbar-brand {
       width: 380px;
       padding-top: 0;
   }
 }
 
-@media(min-width:768px) {
+@media (min-width:768px) {
   .navbar-fixed-top {
       padding: 25px 0;
       -webkit-transition: padding .3s;
