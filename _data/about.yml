@@ -14,8 +14,12 @@
   picture:
     src: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/10178059_10203705466903041_4831009270170032697_n.jpg?oh=55c791a8569e804ea827b2634bd76ed8&oe=5483170C&__gda__=1419557048_aa4b7ef221834b309bff03dfb72f7a14
     alt: Bryce's face
-  bio: Farmer turned programmer.
+  bio: Farmer turned programmer, interested in systems programming and low level coding.
   contact:
+    - title: home
+      url: http://imbryce.com
+    - title: twitter
+      url: http://twitter.com/brycehanderson
     - title: github
       url: http://github.com/bhanderson
 - name: Chris
