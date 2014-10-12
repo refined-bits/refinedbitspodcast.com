@@ -35,14 +35,23 @@ Company dominates limitations in hardware by solving it with advancements in sof
   * [Website and info](http://www.euclideon.com/)
   * [Videos and demos](https://www.youtube.com/user/EuclideonOfficial)
 
-As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.org/wiki/.kkrieger), which uses [procedural generation](http://en.wikipedia.org/wiki/Procedural_generation) to essentially do [box modeling](http://en.wikipedia.org/wiki/Box_modeling)
+As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.org/wiki/.kkrieger), which uses [procedural generation](http://en.wikipedia.org/wiki/Procedural_generation) to essentially do [box modeling](http://en.wikipedia.org/wiki/Box_modeling).
 
 ### Shellshock (00:14:57)
 
 ### Windows 10 (00:19:58)
 [Preview download](http://windows.microsoft.com/en-us/windows/preview)
 
-### HTML 5 Games with Kristin Valentine (00:27:02)
+## HTML 5 Games with Kristin Valentine (00:27:02)
+
+TODO: and better notes around this
+
+* http://phaser.io/
+* https://code.google.com/p/blockly/
+* http://ldd.lego.com/en-us/
+* http://www.alice.org/index.php
+
+## This is Awesome!
 
 ### The Physical Web (00:47:37)
 
