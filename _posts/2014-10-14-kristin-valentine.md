@@ -40,11 +40,15 @@ As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.or
 ### Shellshock (00:14:57)
 
 ### Windows 10 (00:19:58)
+[Preview download](http://windows.microsoft.com/en-us/windows/preview)
 
 ### HTML 5 Games with Kristin Valentine (00:27:02)
 
 ### The Physical Web (00:47:37)
 
 ### Solar Panels (00:53:19)
+Cambridge University using femtosecond laser spectroscopy develops hybrid materials that could result in near 100% efficiency for solar panals using dark triplet excitons.
+[Article on Cambridge](http://www.cam.ac.uk/research/news/hybrid-materials-could-smash-the-solar-efficiency-ceiling)
+[Results](http://www.nature.com/nmat/journal/vaop/ncurrent/full/nmat4093.html)
 
 ### Do I Need a Website? (00:58:56)
