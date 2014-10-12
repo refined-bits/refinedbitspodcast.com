@@ -30,6 +30,12 @@ episode-id: 2
 ### It's Ada Lovelace Day! (00:02:23)
 
 ### Euclideon (00:07:37)
+Company dominates limitations in hardware by solving it with advancements in sofware. 3D search algorithm capable of rendering unliminted point cloud data removes hardware bottlenecks associated to simple polygon graphics. 
+
+  * [Website and info](http://www.euclideon.com/)
+  * [Videos and demos](https://www.youtube.com/user/EuclideonOfficial)
+
+As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.org/wiki/.kkrieger), which uses [procedural generation](http://en.wikipedia.org/wiki/Procedural_generation) to essentially do [box modeling](http://en.wikipedia.org/wiki/Box_modeling)
 
 ### Shellshock (00:14:57)
 
