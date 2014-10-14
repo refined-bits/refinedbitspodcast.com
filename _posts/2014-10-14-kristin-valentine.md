@@ -46,8 +46,9 @@ As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.or
 
 ### Shellshock (00:14:57)
 
-* http://en.wikipedia.org/wiki/Shellshock_(software_bug)
-* https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6271
+[Shellshock](http://en.wikipedia.org/wiki/Shellshock_(software_bug)) ([CVE-2014-6271](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6271), [CVE-2014-7169](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-7169), others) is bad news. Amazingly, it's been around since **1989**. There are [patches available for the common versions](http://unix.stackexchange.com/questions/157381/when-was-the-shellshock-cve-2014-6271-7169-bug-introduced-and-what-is-the-pat), though [the Mac version is reportedly incomplete](http://www.cnet.com/news/apples-shellshock-patch-incomplete-say-experts/).
+
+Patch your machines!
 
 ### Windows 10 (00:19:58)
 
