@@ -29,12 +29,15 @@ episode-id: 2
 
 ### It's Ada Lovelace Day! (00:02:23)
 
-* http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech
-* http://findingada.com/
-* [Rear Admiral Grace M. Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+Find some time today to listen to [this great 7-minute feature from NPR](http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech) about the pioneers of computer programming who were, conspicuously, primarily women.
+
+[Finding Ada](http://findingada.com/) is an organization dedicated to promoting women in STEM fields by highlighting great role models and celebrating their achievements. [Give them money!](https://www.indiegogo.com/projects/ada-lovelace-day-live-2014)
+
+We also talked about [Rear Admiral Grace M. Hopper](http://en.wikipedia.org/wiki/Grace_Hopper), who created [the first compiler](http://en.wikipedia.org/wiki/History_of_compiler_construction), and whose work led to the computing industry moving away from machine-specific languages and toward [portable English-like programming languages](http://en.wikipedia.org/wiki/COBOL). The [Anita Borg Institute](http://anitaborg.org/) just wrapped up their annual [Grace Hopper Celebration of Women in Computing](http://gracehopper.org/) conference.
 
 ### Euclideon (00:07:37)
-Company dominates limitations in hardware by solving it with advancements in sofware. 3D search algorithm capable of rendering unliminted point cloud data removes hardware bottlenecks associated to simple polygon graphics. 
+
+Company dominates limitations in hardware by solving it with advancements in sofware. 3D search algorithm capable of rendering unliminted point cloud data removes hardware bottlenecks associated to simple polygon graphics.
 
   * [Website and info](http://www.euclideon.com/)
   * [Videos and demos](https://www.youtube.com/user/EuclideonOfficial)
@@ -47,6 +50,7 @@ As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.or
 * https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6271
 
 ### Windows 10 (00:19:58)
+
 [Preview download](http://windows.microsoft.com/en-us/windows/preview) | [Skip to the ISO](http://windows.microsoft.com/en-us/windows/preview-iso)
 
 ## HTML 5 Games with Kristin Valentine (00:27:02)
@@ -66,6 +70,7 @@ TODO: and better notes around this
 * https://github.com/google/physical-web
 
 ### Solar Panels (00:53:19)
+
 Cambridge University using femtosecond laser spectroscopy develops hybrid materials that could result in near 100% efficiency for solar panals using dark triplet excitons.
 [Article on Cambridge](http://www.cam.ac.uk/research/news/hybrid-materials-could-smash-the-solar-efficiency-ceiling)
 [Results](http://www.nature.com/nmat/journal/vaop/ncurrent/full/nmat4093.html)
