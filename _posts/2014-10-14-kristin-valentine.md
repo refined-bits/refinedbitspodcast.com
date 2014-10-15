@@ -44,20 +44,20 @@ Company dominates limitations in hardware by solving it with advancements in sof
 
 As an interesting extra to this, we mentioned [.kkrieger](http://en.wikipedia.org/wiki/.kkrieger), which uses [procedural generation](http://en.wikipedia.org/wiki/Procedural_generation) to essentially do [box modeling](http://en.wikipedia.org/wiki/Box_modeling). The whole game is 97,280 bytes (= 97 KB = 0.097 MB), which is incredibly small for a game - so small you could put 12 copies of it on a 1984 dual sided floppy.
 
-### Shellshock (00:14:57)
+### Shellshock (00:14:58)
 
 [Shellshock](http://en.wikipedia.org/wiki/Shellshock_(software_bug)) ([CVE-2014-6271](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6271), [CVE-2014-7169](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-7169), others) is bad news. Amazingly, it's been around since **1989**. There are [patches available for the common versions](http://unix.stackexchange.com/questions/157381/when-was-the-shellshock-cve-2014-6271-7169-bug-introduced-and-what-is-the-pat), though [the Mac version is reportedly incomplete](http://www.cnet.com/news/apples-shellshock-patch-incomplete-say-experts/).
 
 Patch your machines!
 
-### Windows 10 (00:19:58)
+### Windows 10 (00:19:44)
 
 [Windows 10 Technical Preview site](http://windows.microsoft.com/en-us/windows/preview) ([skip to the ISO](http://windows.microsoft.com/en-us/windows/preview-iso))
 
  * [Lifehacker's overview of what's new in Windows 10](http://lifehacker.com/all-the-new-stuff-in-windows-10-1640838152)
  * [Scott Hanselman on the new console and it's features and keyboard shortcuts](http://www.hanselman.com/blog/Windows10GetsAFreshCommandPromptAndLotsOfHotkeys.aspx)
 
-## HTML 5 Games with Kristin Valentine (00:27:02)
+## HTML 5 Games with Kristin Valentine (00:26:42)
 
 Kristin is using the [Phaser](http://phaser.io/) framework for HTML5 games.
 
@@ -76,11 +76,11 @@ Kristin is cool! Check out her stuff:
 
 ## This is Awesome! (Gadgets, Tech, & Tools)
 
-### The Physical Web (00:47:37)
+### The Physical Web (00:47:23)
 
 Google just created a [repository for their Physical Web project](https://github.com/google/physical-web). Its goal is to make deep interaction with real-world objects about as easy as being in the same room as them. This is in contrast to the current model of having to install an app for each of your smart devices, which won't scale well as the [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things) expands.
 
-### Solar Panels (00:53:19)
+### Solar Panels (00:53:00)
 
 Cambridge University using femtosecond laser spectroscopy develops hybrid materials that could result in near 100% efficiency for solar panels using dark triplet excitons.
 
@@ -89,7 +89,7 @@ Cambridge University using femtosecond laser spectroscopy develops hybrid materi
 
 ## Spontaneous Debate | Controversy Corner
 
-### Do I Need a Website? (00:58:56)
+### Do I Need a Website? (00:58:39)
 
 **TL;DL**: Yes, you need a website.
 
