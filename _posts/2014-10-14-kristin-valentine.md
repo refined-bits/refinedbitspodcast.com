@@ -14,10 +14,10 @@ audio:
   sources:
     - type: ogg
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.ogg
-      size: 56800194
+      size: 63475491
     - type: mp3
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.mp3
-      size: 98828530
+      size: 49406143
 
 layout: single-episode
 episode-id: 2
