@@ -61,11 +61,18 @@ Patch your machines!
 
 Kristin is using the [Phaser](http://phaser.io/) framework for HTML5 games.
 
+Languages for teaching programming:
+
  * https://code.google.com/p/blockly/
  * http://ldd.lego.com/en-us/
  * http://www.alice.org
 
 The website from back in the day with the JavaScript snippets was [JavaScript Source](https://web.archive.org/web/20030201220406/http://javascript.internet.com/), and it's [still around](http://www.javascriptsource.com/)! Most of the old content is still around, too. Here's [an area calculator from 2001 on the old site](https://web.archive.org/web/20030207204757/http://javascript.internet.com/calculators/area-calculator-2.html) (thanks to the [Wayback Machine](https://archive.org/web/)) and [the same snippet on the current site](http://www.javascriptsource.com/math-related/area-calculator-2.html).
+
+Kristin is cool! Check out her stuff:
+
+ * She's [@KristinJVal on Twitter](https://twitter.com/KristinJVal)
+ * She's a co-host of [the PushPull Podcast](http://pushpull.me/) (they have [a Twitter](https://twitter.com/pushpullcast), too!)
 
 ## This is Awesome! (Gadgets, Tech, & Tools)
 
@@ -75,12 +82,17 @@ Google just created a [repository for their Physical Web project](https://github
 
 ### Solar Panels (00:53:19)
 
-Cambridge University using femtosecond laser spectroscopy develops hybrid materials that could result in near 100% efficiency for solar panals using dark triplet excitons.
-[Article on Cambridge](http://www.cam.ac.uk/research/news/hybrid-materials-could-smash-the-solar-efficiency-ceiling)
-[Results](http://www.nature.com/nmat/journal/vaop/ncurrent/full/nmat4093.html)
+Cambridge University using femtosecond laser spectroscopy develops hybrid materials that could result in near 100% efficiency for solar panels using dark triplet excitons.
+
+ * [Article on Cambridge](http://www.cam.ac.uk/research/news/hybrid-materials-could-smash-the-solar-efficiency-ceiling)
+ * [Results](http://www.nature.com/nmat/journal/vaop/ncurrent/full/nmat4093.html)
 
 ## Spontaneous Debate | Controversy Corner
 
 ### Do I Need a Website? (00:58:56)
 
-* http://www.hanselman.com/blog/YourWordsAreWasted.aspx
+**TL;DL**: Yes, you need a website.
+
+* [Scott Hanselman on how every developer needs their own blog](http://www.hanselman.com/blog/YourWordsAreWasted.aspx)
+
+[Bryce ended up making a website!](http://imbryce.com/)
