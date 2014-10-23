@@ -37,7 +37,7 @@ We also talked about [Rear Admiral Grace M. Hopper](http://en.wikipedia.org/wiki
 
 ### Euclideon (00:07:37)
 
-Company dominates limitations in hardware by solving it with advancements in sofware. 3D search algorithm capable of rendering unliminted point cloud data removes hardware bottlenecks associated to simple polygon graphics.
+Company dominates limitations in hardware by solving it with advancements in software. 3D search algorithm capable of rendering unlimited point cloud data removes hardware bottlenecks associated with simple polygon graphics.
 
   * [Website and info](http://www.euclideon.com/)
   * [Videos and demos](https://www.youtube.com/user/EuclideonOfficial)
@@ -55,7 +55,7 @@ Patch your machines!
 [Windows 10 Technical Preview site](http://windows.microsoft.com/en-us/windows/preview) ([skip to the ISO](http://windows.microsoft.com/en-us/windows/preview-iso))
 
  * [Lifehacker's overview of what's new in Windows 10](http://lifehacker.com/all-the-new-stuff-in-windows-10-1640838152)
- * [Scott Hanselman on the new console and it's features and keyboard shortcuts](http://www.hanselman.com/blog/Windows10GetsAFreshCommandPromptAndLotsOfHotkeys.aspx)
+ * [Scott Hanselman on the new console and its features and keyboard shortcuts](http://www.hanselman.com/blog/Windows10GetsAFreshCommandPromptAndLotsOfHotkeys.aspx)
 
 ## HTML 5 Games with Kristin Valentine (00:26:42)
 
@@ -66,6 +66,8 @@ Languages for teaching programming:
  * <https://code.google.com/p/blockly/>
  * <http://ldd.lego.com/en-us/>
  * <http://www.alice.org>
+
+[PhoneGap](http://phonegap.com/) is a framework from Adobe based on [Apache Cordova](http://cordova.apache.org/) that is used to build native mobile applications with HTML, CSS, and JavaScript.
 
 The website from back in the day with the JavaScript snippets was [JavaScript Source](https://web.archive.org/web/20030201220406/http://javascript.internet.com/), and it's [still around](http://www.javascriptsource.com/)! Most of the old content is still around, too. Here's [an area calculator from 2001 on the old site](https://web.archive.org/web/20030207204757/http://javascript.internet.com/calculators/area-calculator-2.html) (thanks to the [Wayback Machine](https://archive.org/web/)) and [the same snippet on the current site](http://www.javascriptsource.com/math-related/area-calculator-2.html).
 
@@ -78,7 +80,7 @@ Kristin is cool! Check out her stuff:
 
 ### The Physical Web (00:47:23)
 
-Google just created a [repository for their Physical Web project](https://github.com/google/physical-web). Its goal is to make deep interaction with real-world objects about as easy as being in the same room as them. This is in contrast to the current model of having to install an app for each of your smart devices, which won't scale well as the [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things) expands.
+Google just created a [repository for their Physical Web project](https://github.com/google/physical-web). Its goal is to make deep interaction with real-world objects about as easy as being in the same room as them. This is in contrast to the current model of having to install an app on each of your personal devices for each of your smart devices, which won't scale well as the [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things) expands.
 
 ### Solar Panels (00:53:00)
 
