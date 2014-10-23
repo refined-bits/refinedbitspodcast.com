@@ -7,9 +7,6 @@
     <language>en</language>
     <managingEditor>{{ site.email }}</managingEditor>
     <webMaster>{{ site.email }}</webMaster>
-    {% for category in site.data.publishing.categories %}
-      <category>{{ category | xml_escape }}</category>
-    {% endfor %}
     <copyright>Copyright {{ site.time | date: "%Y" }} Refined Bits, CC BY-SA 4.0</copyright>
     <image>
       <title>{{ site.data.publishing.image.alt | xml_escape }}</title>
@@ -20,6 +17,24 @@
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+    <itunes:author>{{ site.authors }}</itunes:author>
+    <itunes:owner>
+      <itunes:name>{{ site.authors }}</itunes:name>
+      <itunes:email>{{ site.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image>{{ site.data.publishing.image.itunes-url | prepend: site.baseurl | prepend: site.url }}</itunes:image>
+    {% for category in site.data.publishing.itunes-categories %}
+      {% if category.subcategories %}
+        <itunes:category text="{{ category.name | xml_escape }}">
+          {% for subcategory in category.subcategories %}
+            <itunes:category text="{{ subcategory | xml_escape }}" />
+          {% endfor %}
+        </itunes:category>
+      {% else %}
+        <itunes:category text="{{ category.name | xml_escape }}" />
+      {% endif %}
+    {% endfor %}
     {{content}}
   </channel>
 </rss>

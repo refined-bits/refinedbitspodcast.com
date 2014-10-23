@@ -2,6 +2,7 @@
 title: Refined Bits Podcast
 description: "A monthly podcast about becoming a better author of code."
 email: refinedbits@gmail.com
+authors: Andrew Bates, Bryce Handerson, and Chris Antes
 
 # Build settings
 markdown: kramdown
