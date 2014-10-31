@@ -1,10 +1,11 @@
 ---
 layout: feed
 ---
-{% for post in site.posts limit:10 %}
+{% for post in site.posts %}
   <item>
     <title>{{ post.title | xml_escape }}</title>
     <description>{{ post.description | xml_escape }}</description>
+    <itunes:image href="{{ post.picture.src | prepend: site.baseurl | prepend: site.url }}" />
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
     <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
@@ -14,6 +15,10 @@ layout: feed
     {% for cat in post.categories %}
       <category>{{ cat | xml_escape }}</category>
     {% endfor %}
+    {% if post.explicit %}
+      <itunes:explicit>{{ post.explicit }}</itunes:explicit>
+    {% endif %}
+    <itunes:duration>{{ post.audio.duration }}</itunes:duration>
     {% for source in post.audio.sources %}
       <enclosure url="{{source.src}}" length="{{source.size}}" type="audio/{{source.type}}" />
     {% endfor %}

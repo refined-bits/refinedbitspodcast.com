@@ -12,6 +12,7 @@ picture:
       name: CC BY 2.0
       url: https://creativecommons.org/licenses/by/2.0/
 audio:
+  duration: '01:11:57'
   sources:
     - type: ogg
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.ogg
