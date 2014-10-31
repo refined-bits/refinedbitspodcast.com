@@ -4,6 +4,7 @@ description: HTML5 Games, Shellshock, Windows 10, Euclideon, The Physical Web
 date: 2014-10-14
 picture:
   src: /img/episodes/2014-10-14-kristin-valentine.jpg
+  thumbnail-src: /img/episodes/thumbnails/2014-10-14-kristin-valentine.jpg
   alt: Kristin Valentine
   credit:
     name: Redstone Pictures

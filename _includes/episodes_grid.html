@@ -18,7 +18,7 @@
               {% endif %}
               <time>{{post.date | date: '%-m/%-d/%Y'}}</time>
             </div>
-            <img src="{{post.picture.src}}" class="img-responsive" alt="{{post.picture.alt}}" title="by {{post.picture.credit.name}}">
+            <img src="{{post.picture.thumbnail-src}}" class="img-responsive" alt="{{post.picture.alt}}" title="by {{post.picture.credit.name}}">
           </a>
         </article>
       {% endfor %}
