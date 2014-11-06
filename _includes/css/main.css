@@ -69,7 +69,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #{{ site.data.color.primary }};
+  background-color: #{{ site.data.color.secondary }};
 }
 
 hr.star-primary {
@@ -233,6 +233,10 @@ article.episode .art img {
   border: 0;
 }
 
+.navbar-default {
+  background: #{{ site.data.color.secondary-dark }};
+}
+
 body > section {
   padding: 100px 0;
 
@@ -241,7 +245,7 @@ body > section {
 section.next-episode,
 #about {
   color: #FFF;
-  background: #{{ site.data.color.primary }};
+  background: #{{ site.data.color.secondary }};
 }
 
 body > section h1 {
