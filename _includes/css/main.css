@@ -480,7 +480,6 @@ footer .footer-below {
 
 .portfolio-modal .modal-content {
   padding: 100px 0;
-  margin: auto;
   min-height: 100%;
   border: 0;
   border-radius: 0;
@@ -488,7 +487,6 @@ footer .footer-below {
   background-clip: border-box;
   -webkit-box-shadow: none;
   box-shadow: none;
-  width: 95%;
 }
 
 article.episode {
