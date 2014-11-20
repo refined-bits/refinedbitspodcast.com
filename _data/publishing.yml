@@ -1,0 +1,14 @@
+image:
+  url: /img/cover-art/400.png
+  itunes-url: /img/cover-art/1400.png
+  alt: The esteemed Countess Ada Lovelace lookin' sharp in a fancy top hat.
+itunes-categories:
+  - name: Technology
+    subcategories:
+      - Gadgets
+      - Tech News
+      - Software How-To
+  - name: Technology
+  - name: Education
+    subcategories:
+      - Training

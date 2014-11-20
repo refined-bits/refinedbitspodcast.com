@@ -4,6 +4,7 @@ description: Facebook Messenger, Naked Celebrities, Oculus Medicine, Robots Taki
 date: 2014-09-09
 picture:
   src: /img/episodes/2014-09-09-new-podcast.jpg
+  thumbnail-src: /img/episodes/thumbnails/2014-09-09-new-podcast.jpg
   alt: Robots at a Tesla factory, assembling the first Model S line.
   credit:
     name: Steve Jurvetson
@@ -12,6 +13,7 @@ picture:
       name: CC BY 2.0
       url: https://creativecommons.org/licenses/by/2.0/
 audio:
+  duration: '01:11:57'
   sources:
     - type: ogg
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.ogg

@@ -4,6 +4,7 @@ description: HTML5 Games, Shellshock, Windows 10, Euclideon, The Physical Web
 date: 2014-10-14
 picture:
   src: /img/episodes/2014-10-14-kristin-valentine.jpg
+  thumbnail-src: /img/episodes/thumbnails/2014-10-14-kristin-valentine.jpg
   alt: Kristin Valentine
   credit:
     name: Redstone Pictures
@@ -11,6 +12,7 @@ picture:
     license:
       name: client permission
 audio:
+  duration: '01:08:43'
   sources:
     - type: ogg
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.ogg
@@ -18,6 +20,7 @@ audio:
     - type: mp3
       src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.mp3
       size: 49406143
+explicit: 'yes'
 
 layout: single-episode
 episode-id: 2
