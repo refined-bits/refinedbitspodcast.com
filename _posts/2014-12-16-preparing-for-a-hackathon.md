@@ -27,7 +27,25 @@ episode-id: 4
 
 # Show Notes
 
+## News (TODO)
+
+### .NET Core is now Open Source (TODO)
+
+<http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx>
+
+The core of .NET now joins [ASP.NET](https://github.com/aspnet/home), [Entity Framework](https://github.com/aspnet/EntityFramework), and [Roslyn](https://roslyn.codeplex.com/) in Microsoft's growing bullpen of open source products that make up the foundation of the Microsoft developer platform.
+
+Now the community can participate in its development - reporting bugs, fixing bugs, discussing new features, and implementing new features.
+
+<https://github.com/dotnet/core>
+
+### White House Holiday Lights (TODO)
+
+<https://holidays.madewithcode.com/project/lights>
+
 ## Intro to Hackathons (TODO)
+
+> A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects. &mdash; [Wikipedia](http://en.wikipedia.org/wiki/Hackathon)
 
 Make something cool with your team, and maybe help solve some real problems and win some prizes along the way.
 
@@ -35,28 +53,30 @@ Meet new people, make friends, and network!
 
 Eat tons of free food and drink.
 
-## A Hackathon Developer's Toolkit
+## A Hackathon Developer's Toolkit (TODO)
 
-### Git
+### Git (TODO)
 
-### GitHub
+### GitHub (TODO)
 
-### A Comfortable Text Editor
+### A Comfortable Text Editor (TODO)
 
-### An IDE
+### An IDE (TODO)
 
-### Continuous Integration
+### Continuous Integration (TODO)
 
-### Pen and Paper
+### Pen and Paper (TODO)
 
-### A Debugger
+### A Debugger (TODO)
 
-### Twitter Bootstrap
+### Twitter Bootstrap (TODO)
 
-### Fiddler
+### Fiddler (TODO)
 
-### Yeoman
+### Yeoman (TODO)
 
-### Trello
+### Trello (TODO)
 
-### Polymer
+### Polymer (TODO)
+
+## Protips (TODO)
