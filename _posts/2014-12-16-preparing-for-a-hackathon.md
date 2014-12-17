@@ -117,18 +117,21 @@ Alternatives:
  * [BitBucket](https://bitbucket.org)
  * Standing around someone's screen, squinting at a branch diff, talking about it for a while, then letting them merge it and push to your private remote (wherever that is, hopefully somewhere safe).
 
-### A Comfortable Text Editor (TODO)
+### A Comfortable Text Editor (00:27:53)
 
 > There's tons out there, so have fun and explore the possibilities. Once you find one that feels good and has the features you need, stop looking and get to work.
 
 The big ones:
 
  * [Vim](http://www.vim.org/)
+ * [Emacs](http://www.gnu.org/software/emacs/)
  * [Sublime Text](http://www.sublimetext.com/)
  * [Visual Studio](http://www.visualstudio.com/)
  * [Notepad++](http://notepad-plus-plus.org/)
  * [Atom](https://atom.io/)
- * [IntelliJ](http://www.jetbrains.com/idea/)
+ * [IntelliJ IDEA](http://www.jetbrains.com/idea/)
+
+Chris stands corrected - turns out there was a Sublime Text 3 build ([3065](http://www.sublimetext.com/3)) released just a few months ago, and an even newer build on [the dev channel](http://www.sublimetext.com/3dev). It is true that Sublime Text 3 is still in beta though, with [the latest *stable* release (2.0.2) back in July 2013](http://www.sublimetext.com/2).
 
 Features we like:
 
