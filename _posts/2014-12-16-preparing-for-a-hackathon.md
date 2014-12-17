@@ -162,7 +162,7 @@ Examples of debuggers:
 ### Pen and Paper (00:46:14)
 
 > Or whiteboard and marker.
-
+>
 > Either way, you need to communicate ideas with your team, and good pictures are still the best medium.
 
 Make sure you have a common language, so your pictures make sense. [UML](http://en.wikipedia.org/wiki/Unified_Modeling_Language) is a fairly popular graphical language designed for communicating software ideas. [The official UML spec](http://www.omg.org/spec/UML/2.0/) is pretty big and complicated, though, so feel free to just stick to the parts that everyone can understand, and even modify it to be more useful to your particular team; that's how you use other languages designed for communicating with humans, right?
@@ -244,9 +244,9 @@ $ yo angular:controller
 
 > Treat your frontend like the Legos it should be.
 
-[Polymer](https://www.polymer-project.org/) is a web components framework from Google.  Development for designers.
+[Polymer](https://www.polymer-project.org/) is a web components framework from Google.
 
-Chris meant to say "by designers *for programmers*", when talking about [Twitter Bootstrap](http://getbootstrap.com/). It obviously helps programmers who are not designers more than the other way around.
+Chris meant to say "by designers *for programmers*", when talking about [Twitter Bootstrap](http://getbootstrap.com/).
 
 A few good places to find web components:
 
@@ -256,8 +256,8 @@ A few good places to find web components:
 
 ## Protips (1:16:17)
 
-From our combined handful of experiences with  hackathons, we want to remind everyone to get up, walk around, eat food, talk to people, enjoy the event. Oh yea, don't forget to sign up for the hackathon if they have a registration.
+From our combined handful of experiences with hackathons, we want to remind everyone to get up, walk around, eat food, talk to people, and enjoy the event. Oh yea, don't forget to sign up for the hackathon if they have a registration.
 
  * Be innovative
  * Be inspired
- * Have fun
+ * **Have fun**
