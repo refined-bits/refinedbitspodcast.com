@@ -201,6 +201,23 @@ The Cheerio library isn't at cheer.io, it's here: <http://cheeriojs.github.io/ch
 
 ### Fiddler (TODO)
 
+### Platform as a Services (PaaS) (00:59:46)
+
+> Don't spend a bunch of time doing devops work.
+
+Do you need a server?  Are you deploying an application? Decide how far down your platform needs to be, and stop there. It's not very fun to spend two hours hunting down an `sshd_config` issue when you could have been designing or coding instead.
+
+Here are some examples; give them a try:
+
+* [Amazon](http://aws.amazon.com/)
+* [Heroku](https://www.heroku.com/)
+* [Firebase](https://www.firebase.com/)
+* [Azure](http://azure.microsoft.com/en-us/services/websites/)
+* [App Engine](https://cloud.google.com/appengine/)
+* [MongoLab](https://mongolab.com/)
+* [Nodejitsu](https://www.nodejitsu.com/)
+* [OpenShift](https://www.openshift.com/)
+
 ### Yeoman (01:07:03)
 
 Don't waste time writing boilerplate! Scaffold your web apps with [Yeoman](http://yeoman.io/).
