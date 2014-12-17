@@ -13,13 +13,8 @@ picture:
       name: permission
 audio:
   duration: '01:19:41'
-  sources:
-    - type: ogg
-      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-12-16-preparing-for-a-hackathon.ogg
-      size: 56371942
-    - type: mp3
-      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-12-16-preparing-for-a-hackathon.mp3
-      size: 57289048
+  src: http://refinedbitspodcast.com/episodes/refined-bits-2014-12-16-preparing-for-a-hackathon.mp3
+  size: 57289048
 
 layout: single-episode
 episode-id: 4

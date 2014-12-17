@@ -5,11 +5,11 @@
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <language>en</language>
-    <managingEditor>{{ site.email }}</managingEditor>
-    <webMaster>{{ site.email }}</webMaster>
+    <managingEditor>chris@chrisdoingweb.com (Chris Antes)</managingEditor>
+    <webMaster>chris@chrisdoingweb.com (Chris Antes)</webMaster>
     <copyright>Copyright {{ site.time | date: "%Y" }} Refined Bits, CC BY-SA 4.0</copyright>
     <image>
-      <title>{{ site.data.publishing.image.alt | xml_escape }}</title>
+      <title>{{ site.title | xml_escape }}</title>
       <url>{{ site.data.publishing.image.url | prepend: site.baseurl | prepend: site.url }}</url>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
     </image>
@@ -23,7 +23,8 @@
       <itunes:name>{{ site.authors }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image>{{ site.data.publishing.image.itunes-url | prepend: site.baseurl | prepend: site.url }}</itunes:image>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="{{ site.data.publishing.image.itunes-url | prepend: site.baseurl | prepend: site.url }}" />
     {% for category in site.data.publishing.itunes-categories %}
       {% if category.subcategories %}
         <itunes:category text="{{ category.name | xml_escape }}">
