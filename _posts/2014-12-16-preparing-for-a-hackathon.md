@@ -199,7 +199,11 @@ The Cheerio library isn't at cheer.io, it's here: <http://cheeriojs.github.io/ch
 
 ### Twitter Bootstrap (TODO)
 
-### Fiddler (TODO)
+### Fiddler (00:56:25)
+
+Is there a problem on the client side or the server side? Is it even talking to the right server? Is it even talking at all??
+
+* [Wireshark](https://www.wireshark.org/)
 
 ### Platform as a Services (PaaS) (00:59:46)
 
