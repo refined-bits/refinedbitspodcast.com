@@ -51,13 +51,36 @@ NASA is at it again, moving forward into the next (and some might say final) fro
 
 > A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects. &mdash; [Wikipedia](http://en.wikipedia.org/wiki/Hackathon)
 
-Make something cool with your team, and maybe help solve some real problems and win some prizes along the way.
+Check out the [WSU EECS Hackathon III](http://hackathon.eecs.wsu.edu).
 
-Meet new people, make friends, and network!
+We won't be going over specific competitive tips but how to get the most out of your hackathon experience.
 
-Eat tons of free food and drink.
+Make something cool with your team, and maybe help solve some real problems and win some prizes along the way.  Meet new people, make friends, and network! Eat tons of free food and drink.
+
+### General Hackathon Process (00:11:56)
+
+* Be prepared | Have a plan
+ * Try to make a plan ahead of time
+ * Have an idea of what you want to build
+ * Work on an ambitious but reasonable project
+ * Bring the things you need
+
+### Understand Judging (00:15:01)
+
+* Be innovative - is your project unique?
+* Comfort zone - what did the team learn?
+* Adherence to themes - if there are any
+* Is it stable - did it segfault during the demo?
+* Look and feel - is it beautiful/responsive?
+* Technicality - what's happening behind the scenes?
+* Efficient - are selected algorithms appropriate?
+* Architected - does it show that the app was designed?
+* Purpose - does the app do something?
+* Presentation - can the developers communicate the purpose?
 
 ## A Hackathon Developer's Toolkit (00:18:32)
+
+Have the tools you need. Know the tools you need.
 
 ### Version Control (00:19:14)
 
