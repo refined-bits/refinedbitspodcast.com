@@ -29,7 +29,7 @@ episode-id: 4
 
 ## News (00:00:46)
 
-### .NET Core is now Open Source (TODO)
+### .NET Core is now Open Source (00:01:04)
 
 <http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx>
 
@@ -39,11 +39,15 @@ Now the community can participate in its development - reporting bugs, fixing bu
 
 <https://github.com/dotnet/core>
 
-### White House Holiday Lights (TODO)
+### White House Holiday Lights (00:03:22)
 
 <https://holidays.madewithcode.com/project/lights>
 
-## Intro to Hackathons (TODO)
+### NASA Orion Test Flight (00:04:58)
+
+NASA is at it again, moving forward into the next (and some might say final) frontier with their official unmanned pilot flight of the spacecraft [Orion](http://www.nasa.gov/orion/).
+
+## Intro to Hackathons (00:07:29)
 
 > A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects. &mdash; [Wikipedia](http://en.wikipedia.org/wiki/Hackathon)
 
@@ -54,7 +58,7 @@ Meet new people, make friends, and network!
 Eat tons of free food and drink.
 
 ## A Hackathon Developer's Toolkit (TODO)
-
+qqq
 ### Git (TODO)
 
 > None of your hard work is real until it's version controlled.
