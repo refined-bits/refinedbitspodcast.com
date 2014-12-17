@@ -57,14 +57,25 @@ Meet new people, make friends, and network!
 
 Eat tons of free food and drink.
 
-## A Hackathon Developer's Toolkit (TODO)
-qqq
-### Git (TODO)
+## A Hackathon Developer's Toolkit (00:18:32)
+
+### Version Control (00:19:14)
 
 > None of your hard work is real until it's version controlled.
 
-* Git Book (TODO: Link)
-* Learning branching tutorial (TODO: Link)
+[Git](http://git-scm.com/) is our favorite. Here's a couple great resources for learning Git:
+
+ * *The* Git Book: [Pro Git](https://progit.org/) (Oh look, we use the same base theme!)
+ * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/), a simplified visual demo-tutorial about how to work with branches.
+
+A couple other popular choices:
+
+ * [Mercurial](http://mercurial.selenic.com/)
+ * [Subversion](http://subversion.apache.org/)
+ * [Team Foundation Server](http://www.visualstudio.com/products/tfs-overview-vs) (also supports Git!)
+
+<http://en.wikipedia.org/wiki/List_of_revision_control_software>
+<http://en.wikipedia.org/wiki/Comparison_of_revision_control_software>
 
 ### GitHub (TODO)
 
