@@ -149,13 +149,23 @@ Features we like:
    * Tabs
    * Split frames
 
+### A Debugger (00:35:52)
+
+> Still using `fprintf()`, `console.log()`, `print`, or `var_dump()` to chase down where everything goes wrong? Stop that. There's a better way.
+
+Examples of debuggers:
+
+ * [GDB](http://www.gnu.org/software/gdb/), the GNU Debugger, for native applications written in languages like C, C++, Ada, [and several others](https://sourceware.org/gdb/onlinedocs/gdb/Supported-Languages.html)
+ * [PDB](https://docs.python.org/2/library/pdb.html), the Python Debugger
+ * [Visual Studio](http://msdn.microsoft.com/en-us/library/sc65sadd.aspx) has a built-in debugger for managed and unmanaged code
+ * [IntelliJ IDEA](https://www.jetbrains.com/idea/) and other IntelliJ-based IDEs have built-in debuggers for their respective platforms
+ * All modern desktop web browsers ([Chrome](https://developer.chrome.com/devtools), [Firefox](https://developer.mozilla.org/en-US/docs/Tools), [Internet Explorer](http://msdn.microsoft.com/en-us/library/ie/gg589507.aspx), [Opera](http://www.opera.com/dragonfly/), [Safari](https://developer.apple.com/safari/tools/)) have built-in developer tools that include a JavaScript debugger
+
 ### An IDE (TODO)
 
 ### Continuous Integration (TODO)
 
 ### Pen and Paper (TODO)
-
-### A Debugger (TODO)
 
 ### Twitter Bootstrap (TODO)
 
