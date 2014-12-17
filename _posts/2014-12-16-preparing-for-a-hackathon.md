@@ -27,7 +27,7 @@ episode-id: 4
 
 # Show Notes
 
-## News (TODO)
+## News (00:00:46)
 
 ### .NET Core is now Open Source (TODO)
 
