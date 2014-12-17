@@ -181,6 +181,20 @@ TravisCI is [free for private GitHub repositories with the GitHub Student Develo
 
 [Jenkins](http://jenkins-ci.org/), [Bamboo](https://www.atlassian.com/software/bamboo), and [TeamCity](https://www.jetbrains.com/teamcity/) are some other popular CI options.
 
+### Package Managers (00:52:20)
+
+> Downloading libraries and managing dependencies is something a computer can do. Let the computer do that for you.
+
+A few of the big ones:
+
+ * [Bower](http://bower.io/), for web libraries
+ * [NPM](https://www.npmjs.com/), for [Node.js](http://nodejs.org/) modules
+ * [NuGet](https://www.nuget.org/), for .NET libraries
+ * [RubyGems](https://rubygems.org/), for Ruby libraries
+ * [Pip](https://pypi.python.org/pypi/pip), for Python libraries
+
+The Cheerio library isn't at cheer.io, it's here: <http://cheeriojs.github.io/cheerio/>.
+
 ### An IDE (TODO)
 
 ### Twitter Bootstrap (TODO)
