@@ -171,7 +171,16 @@ Examples of debuggers:
 
 ### Fiddler (TODO)
 
-### Yeoman (TODO)
+### Yeoman (01:07:03)
+
+Don't waste time writing boilerplate! Scaffold your web apps with [Yeoman](http://yeoman.io/).
+
+For example, if you're using [AngularJS](https://angularjs.org/), use [generator-angular](https://github.com/yeoman/generator-angular) to scaffold a basic app:
+
+```sh
+$ npm install -g generator-angular
+$ yo angular
+```
 
 ### Trello (01:09:36)
 
@@ -182,6 +191,10 @@ Examples of debuggers:
 ### Polymer (01:12:10)
 
 > Treat your front end like the Legos it should be.
+
+[Polymer](https://www.polymer-project.org/) is a web components framework from Google.  Development for designers.
+
+* Web components with [Custom Elements IO](http://customelements.io/)
 
 ## Protips (1:16:17)
 
