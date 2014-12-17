@@ -17,15 +17,11 @@
   <section class="listen">
     <h1>Listen</h1>
     <audio preload="none" controls>
-      {% for source in include.episode.audio.sources %}
-        <source src="{{source.src}}" type="audio/{{source.type}}">
-      {% endfor %}
+      <source src="{{include.episode.audio.src}}" type="audio/mp3">
     </audio>
     <div class="get-audio">
       <ul class="list-inline">
-        {% for source in include.episode.audio.sources %}
-          <li><a href="{{source.src}}">{{source.type}}</a></li>
-        {% endfor %}
+        <li><a href="{{include.episode.audio.src}}">download</a></li>
       </ul>
     </div>
   </section>

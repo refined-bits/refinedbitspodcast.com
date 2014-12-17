@@ -8,13 +8,8 @@ picture:
   alt: Aaron Crandall
 audio:
   duration: '01:02:35'
-  sources:
-    - type: ogg
-      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-11-11-aaron-crandall.ogg
-      size: 43611795
-    - type: mp3
-      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-11-11-aaron-crandall.mp3
-      size: 44995347
+  src: http://refinedbitspodcast.com/episodes/refined-bits-2014-11-11-aaron-crandall.mp3
+  size: 44995347
 
 layout: single-episode
 episode-id: 3

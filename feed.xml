@@ -19,8 +19,6 @@ layout: feed
       <itunes:explicit>{{ post.explicit }}</itunes:explicit>
     {% endif %}
     <itunes:duration>{{ post.audio.duration }}</itunes:duration>
-    {% for source in post.audio.sources %}
-      <enclosure url="{{source.src}}" length="{{source.size}}" type="audio/{{source.type}}" />
-    {% endfor %}
+    <enclosure url="{{post.audio.src}}" length="{{post.audio.size}}" type="audio/mp3" />
   </item>
 {% endfor %}

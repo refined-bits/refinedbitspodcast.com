@@ -13,13 +13,8 @@ picture:
       name: client permission
 audio:
   duration: '01:08:43'
-  sources:
-    - type: ogg
-      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.ogg
-      size: 63475491
-    - type: mp3
-      src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.mp3
-      size: 49406143
+  src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.mp3
+  size: 49406143
 explicit: 'yes'
 
 layout: single-episode
