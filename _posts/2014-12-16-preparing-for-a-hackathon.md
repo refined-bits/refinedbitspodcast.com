@@ -195,15 +195,13 @@ A few of the big ones:
 
 The Cheerio library isn't at cheer.io, it's here: <http://cheeriojs.github.io/cheerio/>.
 
-### An IDE (TODO)
-
-### Twitter Bootstrap (TODO)
-
 ### Fiddler (00:56:25)
 
-Is there a problem on the client side or the server side? Is it even talking to the right server? Is it even talking at all??
+> Debug traffic between systems.  Test network performance.  Find bottlenecks.
 
-* [Wireshark](https://www.wireshark.org/)
+Is there a problem on the client side or the server side? Is it even talking to the right server? Is it even talking at all???
+
+[Fiddler](http://www.telerik.com/fiddler) provides the necessary features to capture packets and grind through network issues.  See also, the wonderful and cross-platform [Wireshark](https://www.wireshark.org/).
 
 ### Platform as a Services (PaaS) (00:59:46)
 
