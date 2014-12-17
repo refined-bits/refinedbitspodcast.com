@@ -173,8 +173,20 @@ Examples of debuggers:
 
 ### Yeoman (TODO)
 
-### Trello (TODO)
+### Trello (01:09:36)
 
-### Polymer (TODO)
+[Trello](https://trello.com) is a great on-line/cross-platform tool for collaborating and organizing with a team.  It is similar to [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29). 
 
-## Protips (TODO)
+* [Spoiler](https://www.youtube.com/watch?v=oyVksFviJVE) (01:11:55)
+ 
+### Polymer (01:12:10)
+
+> Treat your front end like the Legos it should be.
+
+## Protips (1:16:17)
+
+From our combined handful of experiences with  hackathons, we want to remind everyone to get up, walk around, eat food, talk to people, enjoy the event. Oh yea, don't forget to sign up for the hackathon if they have a registration.
+
+* Be innovative
+* Be inspired
+* Have fun
