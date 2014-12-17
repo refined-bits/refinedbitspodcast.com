@@ -102,9 +102,15 @@ A couple other popular choices:
 <http://en.wikipedia.org/wiki/List_of_revision_control_software>
 <http://en.wikipedia.org/wiki/Comparison_of_revision_control_software>
 
-### GitHub (TODO)
+### GitHub (00:23:08)
 
 > Work better together by sharing code and reviewing each other's work before merging all those great features.
+
+*Note*: Turns out GitHub doesn't actually [host Mercurial repositories](http://mercurial.selenic.com/wiki/MercurialHosting), but you can use a Mercurial client with GitHub with the [Hg-Git plugin](http://hg-git.github.io/).
+
+Check out the [GitHub Student Developer Pack](https://education.github.com/pack) if you're a student!
+
+GitHub has [a great list of resources for learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/), and even [an interactive code school](https://try.github.io)!
 
 Alternatives:
 
