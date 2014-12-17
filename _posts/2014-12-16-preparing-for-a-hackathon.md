@@ -61,9 +61,11 @@ Eat tons of free food and drink.
 
 ### Version Control (00:19:14)
 
-> None of your hard work is real until it's version controlled.
+> None of your hard work is real until it's version-controlled.
 
-[Git](http://git-scm.com/) is our favorite. Here's a couple great resources for learning Git:
+<http://en.wikipedia.org/wiki/Revision_control>
+
+[Git](http://git-scm.com/) is our favorite. Here's a couple of great resources for learning Git:
 
  * *The* Git Book: [Pro Git](https://progit.org/) (Oh look, we use the same base theme!)
  * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/), a simplified visual demo-tutorial about how to work with branches.
