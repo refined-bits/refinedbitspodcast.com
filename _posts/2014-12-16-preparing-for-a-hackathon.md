@@ -171,9 +171,17 @@ Make sure you have a common language, so your pictures make sense. [UML](http://
 
 [Dia](https://wiki.gnome.org/Apps/Dia), [VioletUML](http://alexdp.free.fr/violetumleditor/page.php), and [Visio](http://products.office.com/en-us/visio) are some popular UML drawing tools, if you want to keep your diagrams and photos of the board aren't enough. Just be careful not to spend the whole hackathon making drawings instead of actually building your product!
 
-### An IDE (TODO)
+### Continuous Integration (00:49:46)
 
-### Continuous Integration (TODO)
+> [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) is about knowing the health of your project without having to go check.
+
+Let a continuous integration service like [TravisCI](https://travis-ci.org/) build (and maybe test, if you spent the time to write those) your project every time code gets pushed, and know right away when something breaks. The last thing you want is to be in the 23rd hour with pages full of build errors.
+
+TravisCI is [free for private GitHub repositories with the GitHub Student Developer Pack](https://education.github.com/pack#travis).
+
+[Jenkins](http://jenkins-ci.org/), [Bamboo](https://www.atlassian.com/software/bamboo), and [TeamCity](https://www.jetbrains.com/teamcity/) are some other popular CI options.
+
+### An IDE (TODO)
 
 ### Twitter Bootstrap (TODO)
 
