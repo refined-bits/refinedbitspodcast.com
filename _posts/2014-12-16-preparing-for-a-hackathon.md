@@ -59,8 +59,6 @@ Make something cool with your team, and maybe help solve some real problems and 
 
 ### General Hackathon Process (00:11:56)
 
-* Be prepared | Have a plan
- * Try to make a plan ahead of time
  * Have an idea of what you want to build
  * Work on an ambitious but reasonable project
  * Bring the things you need
