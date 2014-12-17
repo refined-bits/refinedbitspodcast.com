@@ -224,22 +224,29 @@ Here are some examples; give them a try:
 
 For example, if you're using [AngularJS](https://angularjs.org/), use [generator-angular](https://github.com/yeoman/generator-angular) to scaffold a basic app:
 
-```sh
-$ npm install -g generator-angular
+```
 $ yo angular
+```
+
+generator-angular also has sub-generators that can scaffold *parts* of your app as you're writing it:
+
+```
+$ yo angular:controller
 ```
 
 ### Trello (01:09:36)
 
-[Trello](https://trello.com) is a great on-line/cross-platform tool for collaborating and organizing with a team.  It is similar to [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29).
+[Trello](https://trello.com) is a great free web app from [Fog Creek Software](http://www.fogcreek.com/) for collaborating and organizing with a team. It can be used with project management methodologies like [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)) and [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29).
 
- * [Spoiler](https://www.youtube.com/watch?v=oyVksFviJVE) (01:11:55)
+[Spoiler](https://www.youtube.com/watch?v=oyVksFviJVE) (01:11:55)
 
 ### Polymer (01:12:10)
 
 > Treat your frontend like the Legos it should be.
 
 [Polymer](https://www.polymer-project.org/) is a web components framework from Google.  Development for designers.
+
+Chris meant to say "by designers *for programmers*", when talking about [Twitter Bootstrap](http://getbootstrap.com/). It obviously helps programmers who are not designers more than the other way around.
 
 A few good places to find web components:
 
