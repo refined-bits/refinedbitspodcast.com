@@ -57,9 +57,48 @@ Eat tons of free food and drink.
 
 ### Git (TODO)
 
+> None of your hard work is real until it's version controlled.
+
+* Git Book (TODO: Link)
+* Learning branching tutorial (TODO: Link)
+
 ### GitHub (TODO)
 
+> Work better together by sharing code and reviewing each other's work before merging all those great features.
+
+Alternatives:
+
+ * [BitBucket](https://bitbucket.org)
+ * Standing around someone's screen, squinting at a branch diff, talking about it for a while, then letting them merge it and push to your private remote (wherever that is, hopefully somewhere safe).
+
 ### A Comfortable Text Editor (TODO)
+
+> There's tons out there, so have fun and explore the possibilities. Once you find one that feels good and has the features you need, stop looking and get to work.
+
+The big ones:
+
+ * [Vim](http://www.vim.org/)
+ * [Sublime Text](http://www.sublimetext.com/)
+ * [Visual Studio](http://www.visualstudio.com/)
+ * [Notepad++](http://notepad-plus-plus.org/)
+ * [Atom](https://atom.io/)
+ * [IntelliJ](http://www.jetbrains.com/idea/)
+
+Features we like:
+
+ * Syntax highlighting
+   * And being able to quickly change it
+ * Autocomplete
+ * Keyboard document navigation
+   * Jump to file
+   * Jump to line
+   * Global search
+ * Lexical navigation
+ * Multiple cursors
+ * Automatic refactorings
+ * Multiple documents
+   * Tabs
+   * Split frames
 
 ### An IDE (TODO)
 
