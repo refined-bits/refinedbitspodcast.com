@@ -197,11 +197,11 @@ The Cheerio library isn't at cheer.io, it's here: <http://cheeriojs.github.io/ch
 
 ### Fiddler (00:56:25)
 
-> Debug traffic between systems.  Test network performance.  Find bottlenecks.
+> Pick apart any HTTP traffic, tamper with it, or send arbitrary requests.
 
-Is there a problem on the client side or the server side? Is it even talking to the right server? Is it even talking at all???
+[Fiddler](http://www.telerik.com/fiddler) lets you analyze HTTP ([and HTTPS!](http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/DecryptHTTPS)) traffic for any client that can use an HTTP proxy, including [web browsers](http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureBrowsers), [other desktop applications](http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureDotNETApp), and devices like [phones and tablets](http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureForAndroid). It's not too complicated to get up and running and can be invaluable for debugging your app across multiple devices.
 
-[Fiddler](http://www.telerik.com/fiddler) provides the necessary features to capture packets and grind through network issues.  See also, the wonderful and cross-platform [Wireshark](https://www.wireshark.org/).
+If you're not using HTTP or need something much lower-level, [Wireshark](https://www.wireshark.org/) is a great open source cross-platform tool for general traffic analysis.
 
 ### Platform as a Services (PaaS) (00:59:46)
 
