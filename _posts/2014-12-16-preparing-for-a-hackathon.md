@@ -161,11 +161,19 @@ Examples of debuggers:
  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) and other IntelliJ-based IDEs have built-in debuggers for their respective platforms
  * All modern desktop web browsers ([Chrome](https://developer.chrome.com/devtools), [Firefox](https://developer.mozilla.org/en-US/docs/Tools), [Internet Explorer](http://msdn.microsoft.com/en-us/library/ie/gg589507.aspx), [Opera](http://www.opera.com/dragonfly/), [Safari](https://developer.apple.com/safari/tools/)) have built-in developer tools that include a JavaScript debugger
 
+### Pen and Paper (00:46:14)
+
+> Or whiteboard and marker.
+
+> Either way, you need to communicate ideas with your team, and good pictures are still the best medium.
+
+Make sure you have a common language, so your pictures make sense. [UML](http://en.wikipedia.org/wiki/Unified_Modeling_Language) is a fairly popular graphical language designed for communicating software ideas. [The official UML spec](http://www.omg.org/spec/UML/2.0/) is pretty big and complicated, though, so feel free to just stick to the parts that everyone can understand, and even modify it to be more useful to your particular team; that's how you use other languages designed for communicating with humans, right?
+
+[Dia](https://wiki.gnome.org/Apps/Dia), [VioletUML](http://alexdp.free.fr/violetumleditor/page.php), and [Visio](http://products.office.com/en-us/visio) are some popular UML drawing tools, if you want to keep your diagrams and photos of the board aren't enough. Just be careful not to spend the whole hackathon making drawings instead of actually building your product!
+
 ### An IDE (TODO)
 
 ### Continuous Integration (TODO)
-
-### Pen and Paper (TODO)
 
 ### Twitter Bootstrap (TODO)
 
@@ -175,10 +183,10 @@ Examples of debuggers:
 
 ### Trello (01:09:36)
 
-[Trello](https://trello.com) is a great on-line/cross-platform tool for collaborating and organizing with a team.  It is similar to [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29). 
+[Trello](https://trello.com) is a great on-line/cross-platform tool for collaborating and organizing with a team.  It is similar to [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29).
 
 * [Spoiler](https://www.youtube.com/watch?v=oyVksFviJVE) (01:11:55)
- 
+
 ### Polymer (01:12:10)
 
 > Treat your front end like the Legos it should be.
