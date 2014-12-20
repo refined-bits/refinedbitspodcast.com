@@ -23,7 +23,7 @@
       <itunes:name>{{ site.authors }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-    <itunes:explicit>yes</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{ site.data.publishing.image.itunes-url | prepend: site.baseurl | prepend: site.url }}" />
     {% for category in site.data.publishing.itunes-categories %}
       {% if category.subcategories %}
