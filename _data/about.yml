@@ -1,6 +1,6 @@
 - name: Andrew
   picture:
-    src: https://pbs.twimg.com/profile_images/508113992095518720/WxvrOOWc_200x200.jpeg
+    src: ../img/people/andrew.jpg
     alt: Andrew's face
   bio: Analytical mind. Passionate about learning, teaching, & making a difference in/through quality and performance.
   contact:
@@ -12,7 +12,7 @@
       url: http://github.com/andrewbates09
 - name: Bryce
   picture:
-    src: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/10178059_10203705466903041_4831009270170032697_n.jpg?oh=55c791a8569e804ea827b2634bd76ed8&oe=5483170C&__gda__=1419557048_aa4b7ef221834b309bff03dfb72f7a14
+    src: ../img/people/bryce.jpg
     alt: Bryce's face
   bio: Farmer turned programmer, interested in systems programming and low level coding.
   contact:
@@ -24,7 +24,7 @@
       url: http://github.com/bhanderson
 - name: Chris
   picture:
-    src: https://pbs.twimg.com/profile_images/1282382013/6609_599874529730_25909733_35787627_3549156_n_200x200.jpg
+    src: ../img/people/chris.jpg
     alt: Chris' face
   bio: All-around web guy. Ex C programmer. Still keeping it real with C# and SQL, but only when necessary.  
   contact:
