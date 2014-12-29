@@ -10,6 +10,7 @@ audio:
   duration: '01:02:35'
   src: http://refinedbitspodcast.com/episodes/refined-bits-2014-11-11-aaron-crandall.mp3
   size: 44995347
+explicit: 'no'
 
 layout: single-episode
 episode-id: 3

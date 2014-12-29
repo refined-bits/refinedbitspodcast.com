@@ -15,6 +15,7 @@ audio:
   duration: '01:19:41'
   src: http://refinedbitspodcast.com/episodes/refined-bits-2014-12-16-preparing-for-a-hackathon.mp3
   size: 57289048
+explicit: 'no'
 
 layout: single-episode
 episode-id: 4

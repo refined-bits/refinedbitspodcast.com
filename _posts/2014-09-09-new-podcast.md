@@ -16,6 +16,7 @@ audio:
   duration: '01:11:57'
   src: http://refinedbitspodcast.com/episodes/refined-bits-2014-09-09-new-podcast.mp3
   size: 51727038
+explicit: 'no'
 
 layout: single-episode
 episode-id: 1
