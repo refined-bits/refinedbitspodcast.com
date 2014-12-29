@@ -15,7 +15,7 @@ audio:
   duration: '01:08:43'
   src: http://refinedbitspodcast.com/episodes/refined-bits-2014-10-14-kristin-valentine.mp3
   size: 49406143
-explicit: 'yes'
+explicit: 'no'
 
 layout: single-episode
 episode-id: 2
