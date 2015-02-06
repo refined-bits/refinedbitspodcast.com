@@ -7,7 +7,7 @@
                     <ul class="list-inline">
                         {% for network in site.data.social %}
                         <li>
-                            <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                            <a href="{{ network.url }}" class="btn-social btn-outline" title="{{ network.title }}"><i class="fa fa-fw fa-{{ network.icon }}"></i></a>
                         </li>
                     {% endfor %}
                     </ul>

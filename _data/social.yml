@@ -1,7 +1,17 @@
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 
-- title: twitter
+- title: Twitter
   url: http://twitter.com/refinedbits
+  icon: twitter
 
-- title: github
+- title: GitHub
   url: https://github.com/refined-bits
+  icon: github
+
+- title: iTunes
+  url: https://itunes.apple.com/us/podcast/refined-bits-podcast/id953324342
+  icon: apple
+
+- title: Stitcher
+  url: http://app.stitcher.com/browse/feed/58208/details
+  icon: headphones
