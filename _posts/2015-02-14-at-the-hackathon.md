@@ -41,8 +41,36 @@ We were talking through [Mumble](http://wiki.mumble.info/wiki/Main_Page), a grea
 
 BTW this is Cancún:
 
-![Cancún is pretty.](http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Imagebysafa2.jpg/640px-Imagebysafa2.jpg)
+![Cancún is bello.](http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Imagebysafa2.jpg/640px-Imagebysafa2.jpg)
 
 ## The Third Annual WSU EECS Hackathon (00:07:35)
 
 Learn more about the hackathon at this extremely logically-addressed website: <http://hackathon.eecs.wsu.edu/>. You can even follow it on Twitter: [@wsuhackathon](https://twitter.com/wsuhackathon)!
+
+### Interviews (00:13:53)
+
+#### Team Gir (00:13:53)
+
+Wearables!
+
+Leah, [Erin](https://www.linkedin.com/in/erinmullen1), and MacKenzie had tons of fun building LEDs and [Arduinos](http://www.arduino.cc/) into common articles of clothing, like hats, shirts, and gloves. One of our favorites was a scavenger hunt where you would get a set of random colors that you would then go find in the real world and touch.
+
+[Their Prezi presentation](https://prezi.com/mk-gigjriqyi/team-gir-hackathon-presentation/) includes overviews of each of their projects as well as pictures and videos of them in action. Check it out!
+
+#### Team Robert'); DROP TABLE Hackathon;-- (00:20:50)
+
+They made a drink fountain similar to the [Coca-Cola Freestyle](http://en.wikipedia.org/wiki/Coca-Cola_Freestyle), with a web interface for selecting your beverage and the hardware to dispense it. Their goal was to be able to build the machine with off-the-shelf parts, like [Raspberry Pi](http://www.raspberrypi.org/), Arduino, and a common [soda gun](http://en.wikipedia.org/wiki/Soda_gun).
+
+Their team name is a reference to the [XKCD](http://xkcd.com/) comic [*Exploits of a Mom*](http://xkcd.com/327/):
+
+![Exploits of a Mom](http://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+
+#### Frederick's Beatbox Calculator (00:29:27)
+
+Frederick combined his love for math and sweet beats to create a basic calculator that builds up a drum loop as you enter your operands and operators. While he admits it's not very useful, it was very fun to build and learn from.
+
+#### Team Miranda (00:33:48)
+
+[Miranda](https://www.linkedin.com/pub/miranda-hansen/96/6a/631) wanted to put her DIY, hardware, and programming skills to work by creating a workspace that can monitor your activity and regain your attention when you get off-task. The sensor she was working with at the hackathon was a pen containing a custom-built switch mechanism that would send pressure feedback to an Arduino that keeps track of your time spent not writing. When enough time passes that it can tell you've been distracted, it triggers a flashing light pattern that reminds you of the task at hand.
+
+See [Miranda's Instructables page](http://www.instructables.com/member/Diyified) for more of her projects!
