@@ -67,7 +67,9 @@ Their team name is a reference to the [XKCD](http://xkcd.com/) comic [*Exploits 
 
 #### Frederick's Beatbox Calculator (00:29:27)
 
-Frederick combined his love for math and sweet beats to create a basic calculator that builds up a drum loop as you enter your operands and operators. While he admits it's not very useful, it was very fun to build and learn from.  He may be adding it to his now created [github account](https://github.com/FR3DIII) in the future!
+Frederick combined his love for math and sweet beats to create a basic calculator that builds up a drum loop as you enter your operands and operators. While he admits it's not very useful, it was very fun to build and learn from.
+
+He did end up creating a GitHub account. [Check it out!](https://github.com/FR3DIII)
 
 #### Team Miranda (00:33:48)
 
