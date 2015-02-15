@@ -25,7 +25,7 @@ episode-id: 5
 
 We hope you didn't miss us too much while we were on vacation! Several big things have been happening, especially for Bryce.
 
-## Bryce graduated, got married, and moved to Seattle! (00:00:53)
+## Bryce Graduated, got Married, and Moved to Seattle! (00:00:53)
 
 Bryce and Tori have been settling into their life over on the West side. Chris awkwardly says "awesome" right after hearing that their larger-than-allowed dog can't live in their apartment, because that's his default casual "let's move on" phrase, but be assured, he is quite sad at this situation.
 
@@ -91,7 +91,7 @@ Check out [the project on GitHub](https://github.com/aclytle/hackathon2015)!
 
 They used [jQuery](http://en.wikipedia.org/wiki/JQuery) to create a fun little game for kids to learn the keyboard.
 
-### Projects we didn't interview (00:53:09)
+### Projects we Didn't Interview (00:53:09)
 
 There were a few projects we learned about later that we didn't get the chance to interview, but wanted to mention.
 
@@ -100,7 +100,7 @@ There were a few projects we learned about later that we didn't get the chance t
  * Kinect game controller - Using your body as a gamepad via Kinect's sensors and keystroke simulation.
  * 3D web game - A 3D game using the [WebGL JavaScript API](http://en.wikipedia.org/wiki/WebGL).
 
-### Closing thoughts (00:59:32)
+### Closing Thoughts (00:59:32)
 
 With hackathons, part of the idea is to get out there and try something new &mdash; to learn and experiment with a tool or language that you haven't had a lot of experience with, so you can expand your horizons and be creative. However, we noticed that this idea might have been interpreted by many of the participants to mean "start with zero experience with your platform". While it is impressive to some degree to go from zero to a basic shopping list app in 24 hours, it's much more impressive to go from "I made a basic shopping list app once" to "I made an app that uses data gathered from various fitness and health APIs to help you build a personalized grocery list that focuses on maintaining a balanced diet". We all know that setting up a development environment takes time. There are always a series of small (or large) and very boring issues to work through &mdash; missing dependencies, something that needs to go in the `PATH`, the platform's little idiosyncrasies you're not used to. Those take time to hack and slash your way past, and they drain energy and creativity. We think the teams did a great job with what they all had, but we wonder what some of these projects would have looked like if the participants had done just a *Hello, World* in advance, so the path was clear to charge ahead the whole time.
 
