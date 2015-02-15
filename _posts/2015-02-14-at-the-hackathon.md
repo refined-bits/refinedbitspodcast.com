@@ -74,3 +74,19 @@ Frederick combined his love for math and sweet beats to create a basic calculato
 [Miranda](https://www.linkedin.com/pub/miranda-hansen/96/6a/631) wanted to put her DIY, hardware, and programming skills to work by creating a workspace that can monitor your activity and regain your attention when you get off-task. The sensor she was working with at the hackathon was a pen containing a custom-built switch mechanism that would send pressure feedback to an Arduino that keeps track of your time spent not writing. When enough time passes that it can tell you've been distracted, it triggers a flashing light pattern that reminds you of the task at hand.
 
 See [Miranda's Instructables page](http://www.instructables.com/member/Diyified) for more of her projects!
+
+#### Team `/dev/null` (00:39:05)
+
+[Andrew](https://github.com/aclytle) built a new door controller for use by the [Linux Users' Group](https://lug.wsu.edu/) and [Ham Radio Club](http://hamradio.wsu.edu/) on campus. A [Python](http://en.wikipedia.org/wiki/Python_%28programming_language%29) app running on a Raspberry Pi is responsible for authentication and authorization, and can be used through an attached [RFID](http://en.wikipedia.org/wiki/Radio-frequency_identification) reader or another interface, like [SSH](http://en.wikipedia.org/wiki/Secure_Shell).
+
+Like the drink fountain project, this is another great example where a microcontroller was used as an adapter between a very friendly programming platform (Raspberry Pi, in both cases) and a low-level hardware interface. The RFID reader uses the 3-wire [Wiegand interface](http://en.wikipedia.org/wiki/Wiegand_interface) to communicate with the [Uno32 microcontroller](http://www.digilentinc.com/Products/Detail.cfm?Prod=CHIPKIT-UNO32), which in turn uses a [UART](http://en.wikipedia.org/wiki/Universal_asynchronous_receiver/transmitter) interface to relay the information to the Raspberry Pi.
+
+Check out [the project on GitHub](https://github.com/aclytle/hackathon2015)!
+
+*Correction*: It's the lazy geniuses in the LUG with the doorknob-turning hardware, not the ACM.
+
+![A dog playing fetch with a machine](http://i.imgur.com/w3lQ9gY.gif "This is what I got when I googled &quot;lazy genius&quot;.")
+
+#### Outrageous Fun (00:48:18)
+
+They used [jQuery](http://en.wikipedia.org/wiki/JQuery) to create a fun little game for kids to learn the keyboard.
