@@ -53,13 +53,13 @@ Learn more about the hackathon at this extremely logically-addressed website: <h
 
 Wearables!
 
-Leah, [Erin](https://www.linkedin.com/in/erinmullen1), and MacKenzie had tons of fun building LEDs and [Arduinos](http://www.arduino.cc/) into common articles of clothing, like hats, shirts, and gloves. One of our favorites was a scavenger hunt where you would get a set of random colors that you would then go find in the real world and touch.
+Leah, [Erin](https://www.linkedin.com/in/erinmullen1), and Mackenzie had tons of fun building LEDs and [Arduinos](http://www.arduino.cc/) into common articles of clothing, like hats, shirts, and gloves. One of our favorites was a scavenger hunt where you would get a set of random colors that you would then go find in the real world and touch.
 
 [Their Prezi presentation](https://prezi.com/mk-gigjriqyi/team-gir-hackathon-presentation/) includes overviews of each of their projects as well as pictures and videos of them in action. Check it out!
 
 #### Team Robert'); DROP TABLE Hackathon;-- (00:20:50)
 
-They made a drink fountain similar to the [Coca-Cola Freestyle](http://en.wikipedia.org/wiki/Coca-Cola_Freestyle), with a web interface for selecting your beverage and the hardware to dispense it. Their goal was to be able to build the machine with off-the-shelf parts, like [Raspberry Pi](http://www.raspberrypi.org/), Arduino, and a common [soda gun](http://en.wikipedia.org/wiki/Soda_gun).
+They made a drink fountain similar to the [Coca-Cola Freestyle](http://en.wikipedia.org/wiki/Coca-Cola_Freestyle), with a web interface for selecting your beverage and the hardware to dispense it. Their goal was to build the machine with off-the-shelf parts, like [Raspberry Pi](http://www.raspberrypi.org/), Arduino, and a common [soda gun](http://en.wikipedia.org/wiki/Soda_gun).
 
 Their team name is a reference to the [XKCD](http://xkcd.com/) comic [*Exploits of a Mom*](http://xkcd.com/327/):
 
@@ -106,7 +106,7 @@ There were a few projects we learned about later that we didn't get the chance t
 
 With hackathons, part of the idea is to get out there and try something new &mdash; to learn and experiment with a tool or language that you haven't had a lot of experience with, so you can expand your horizons and be creative. However, we noticed that this idea might have been interpreted by many of the participants to mean "start with zero experience with your platform". While it is impressive to some degree to go from zero to a basic shopping list app in 24 hours, it's much more impressive to go from "I made a basic shopping list app once" to "I made an app that uses data gathered from various fitness and health APIs to help you build a personalized grocery list that focuses on maintaining a balanced diet". We all know that setting up a development environment takes time. There are always a series of small (or large) and very boring issues to work through &mdash; missing dependencies, something that needs to go in the `PATH`, the platform's little idiosyncrasies you're not used to. Those take time to hack and slash your way past, and they drain energy and creativity. We think the teams did a great job with what they all had, but we wonder what some of these projects would have looked like if the participants had done just a *Hello, World* in advance, so the path was clear to charge ahead the whole time.
 
-In summary, get all the boring stuff out of the way and spend as much time as you can during the hackathon being creative and learning.
+In summary, get all the boring stuff out of the way and spend as much time as you can during a hackathon being creative and learning.
 
 And use libraries!
 
