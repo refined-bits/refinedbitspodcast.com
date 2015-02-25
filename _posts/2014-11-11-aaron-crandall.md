@@ -1,7 +1,6 @@
 ---
 title: Aaron S. Crandall, Ph.D
 description: Smart Homes, Gerontechnology, Language and Code Quality, Tabs vs. Spaces
-date: 2014-11-11
 picture:
   src: /img/episodes/2014-11-11-aaron-crandall.jpg
   thumbnail-src: /img/episodes/thumbnails/2014-11-11-aaron-crandall.jpg

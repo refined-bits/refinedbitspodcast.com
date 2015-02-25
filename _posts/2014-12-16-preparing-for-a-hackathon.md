@@ -1,7 +1,6 @@
 ---
 title: Preparing for a Hackathon
 description: Essential tools and techniques for a successful hackathon
-date: 2014-12-16
 picture:
   src: /img/episodes/2014-12-16-preparing-for-a-hackathon.jpg
   thumbnail-src: /img/episodes/thumbnails/2014-12-16-preparing-for-a-hackathon.jpg
