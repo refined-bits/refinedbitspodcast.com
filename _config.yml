@@ -5,6 +5,7 @@ email: refinedbits@gmail.com
 authors: Andrew Bates, Bryce Handerson, and Chris Antes
 
 # Build settings
+timezone: America/Los_Angeles
 markdown: kramdown
 permalink: pretty
 url: http://refinedbitspodcast.com

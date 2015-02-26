@@ -1,7 +1,6 @@
 ---
 title: At the Hackathon
 description: We visit the third annual WSU EECS Hackathon and interview the teams working on some of our favorite projects
-date: 2015-02-14
 picture:
   src: /img/episodes/2015-02-14-at-the-hackathon.jpg
   thumbnail-src: /img/episodes/thumbnails/2015-02-14-at-the-hackathon.jpg
