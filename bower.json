@@ -1,0 +1,15 @@
+{
+  "name": "refinedbitspodcast.com",
+  "homepage": "https://github.com/refined-bits/refinedbitspodcast.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootswatch": "~3.3.2",
+    "bootstrap-sass": "~3.3.3",
+    "font-awesome": "~4.3.0"
+  }
+}
