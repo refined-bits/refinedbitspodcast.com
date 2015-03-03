@@ -11,3 +11,5 @@ permalink: pretty
 url: http://refinedbitspodcast.com
 baseurl:
 exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock']
+sass:
+    style: :compressed
